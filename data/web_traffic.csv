@@ -1,0 +1,901 @@
+SessionID,Date,LandingPage,Source,Campaign,DeviceCategory,Region,SessionDurationSec,PageViews,StartedRegistration,Registered,Bounced
+SESS-500001,2026-02-15,/,Email,none,Mobile,Delhi,243,3,Yes,No,No
+SESS-500002,2026-06-03,/,Direct,none,Mobile,Karnataka,268,4,No,No,No
+SESS-500003,2026-04-14,/register,Google Organic,starter,Desktop,Telangana,360,3,Yes,Yes,No
+SESS-500004,2026-03-31,/register,Email,campus,Desktop,Maharashtra,282,5,Yes,Yes,No
+SESS-500005,2026-04-24,/programs,Direct,none,Mobile,Tamil Nadu,232,2,No,No,No
+SESS-500006,2026-02-16,/login,Google Organic,none,Tablet,Delhi,53,1,No,No,No
+SESS-500007,2026-06-17,/login,Direct,career-week,Desktop,Maharashtra,173,3,No,No,No
+SESS-500008,2026-07-02,/programs,Google Organic,campus,Mobile,West Bengal,329,5,No,No,No
+SESS-500009,2026-06-17,/programs,Google Organic,career-week,Mobile,Telangana,403,5,No,No,No
+SESS-500010,2026-06-15,/register,Referral,none,Desktop,Maharashtra,271,2,Yes,Yes,No
+SESS-500011,2026-07-18,/verify,Direct,none,Mobile,Karnataka,196,3,Yes,Yes,No
+SESS-500012,2026-03-18,/programs,Direct,career-week,Mobile,Karnataka,551,8,Yes,Yes,No
+SESS-500013,2026-06-20,/register,LinkedIn,career-week,Mobile,Delhi,28,2,No,No,No
+SESS-500014,2026-02-03,/,Direct,none,Desktop,Telangana,431,7,No,No,No
+SESS-500015,2026-07-13,/login,Referral,starter,Mobile,Tamil Nadu,468,5,No,No,No
+SESS-500016,2026-07-19,/register,LinkedIn,career-week,Desktop,Maharashtra,164,4,No,No,No
+SESS-500017,2026-08-19,/verify,LinkedIn,career-week,Mobile,Delhi,281,3,No,No,No
+SESS-500018,2026-02-21,/faq,Direct,starter,Desktop,Telangana,72,1,No,No,No
+SESS-500019,2026-04-07,/login,Google Organic,career-week,Mobile,Tamil Nadu,196,4,Yes,Yes,No
+SESS-500020,2026-05-29,/,Referral,campus,Desktop,West Bengal,387,4,No,No,No
+SESS-500021,2026-02-12,/login,Google Organic,campus,Tablet,Maharashtra,216,2,Yes,No,No
+SESS-500022,2026-02-27,/programs,Email,starter,Mobile,West Bengal,162,1,Yes,Yes,No
+SESS-500023,2026-03-07,/register,Google Organic,starter,Desktop,West Bengal,331,5,Yes,Yes,No
+SESS-500024,2026-06-05,/programs,Google Organic,none,Mobile,Delhi,60,1,No,No,No
+SESS-500025,2026-07-04,/login,Google Organic,starter,Desktop,West Bengal,411,6,No,No,No
+SESS-500026,2026-08-21,/login,Google Organic,starter,Tablet,Delhi,357,7,No,No,No
+SESS-500027,2026-05-05,/programs,Google Organic,campus,Mobile,Telangana,101,1,No,No,No
+SESS-500028,2026-07-14,/programs,Referral,campus,Mobile,Delhi,256,5,No,No,No
+SESS-500029,2026-04-18,/verify,Instagram,career-week,Mobile,Maharashtra,63,1,No,No,No
+SESS-500030,2026-02-08,/faq,Google Organic,career-week,Mobile,West Bengal,211,4,No,No,No
+SESS-500031,2026-06-24,/login,Referral,none,Mobile,Delhi,4,1,No,No,Yes
+SESS-500032,2026-04-24,/login,Direct,none,Mobile,West Bengal,214,2,No,No,No
+SESS-500033,2026-03-17,/verify,Instagram,starter,Mobile,Maharashtra,243,4,No,No,No
+SESS-500034,2026-01-28,/,Referral,none,Mobile,Tamil Nadu,221,3,Yes,Yes,No
+SESS-500035,2026-02-02,/verify,Referral,none,Mobile,Telangana,126,1,No,No,No
+SESS-500036,2026-06-13,/faq,Direct,career-week,Tablet,West Bengal,474,7,No,No,No
+SESS-500037,2026-02-22,/,Direct,starter,Mobile,Maharashtra,243,5,Yes,No,No
+SESS-500038,2026-01-08,/programs,Email,campus,Desktop,West Bengal,134,4,No,No,No
+SESS-500039,2026-04-01,/,Direct,none,Mobile,Delhi,147,2,No,No,No
+SESS-500040,2026-04-05,/verify,Direct,none,Mobile,Maharashtra,143,2,No,No,No
+SESS-500041,2026-04-26,/login,Instagram,campus,Mobile,Telangana,123,1,Yes,Yes,No
+SESS-500042,2026-08-24,/,Instagram,starter,Mobile,West Bengal,467,7,Yes,Yes,No
+SESS-500043,2026-07-10,/login,Google Organic,starter,Desktop,Telangana,150,2,No,No,No
+SESS-500044,2026-07-20,/login,Email,starter,Desktop,Karnataka,382,6,Yes,Yes,No
+SESS-500045,2026-06-08,/register,LinkedIn,none,Mobile,West Bengal,231,4,No,No,No
+SESS-500046,2026-07-02,/programs,Google Organic,career-week,Desktop,Maharashtra,139,3,Yes,No,No
+SESS-500047,2026-03-09,/faq,Referral,campus,Mobile,Telangana,197,4,No,No,No
+SESS-500048,2026-03-31,/verify,LinkedIn,starter,Mobile,Karnataka,144,2,No,No,No
+SESS-500049,2026-07-28,/register,Instagram,career-week,Mobile,Delhi,116,3,Yes,No,No
+SESS-500050,2026-04-18,/register,Referral,campus,Mobile,Karnataka,56,1,No,No,No
+SESS-500051,2026-04-05,/programs,LinkedIn,career-week,Mobile,Karnataka,114,2,No,No,No
+SESS-500052,2026-02-21,/programs,LinkedIn,campus,Desktop,Tamil Nadu,4,2,No,No,No
+SESS-500053,2026-04-09,/login,Google Organic,campus,Mobile,Karnataka,443,4,No,No,No
+SESS-500054,2026-07-03,/register,LinkedIn,starter,Desktop,West Bengal,188,4,No,No,No
+SESS-500055,2026-08-08,/faq,Direct,starter,Mobile,Telangana,144,2,Yes,No,No
+SESS-500056,2026-05-21,/faq,Instagram,campus,Mobile,Karnataka,313,4,Yes,No,No
+SESS-500057,2026-01-31,/programs,Email,starter,Mobile,Maharashtra,280,2,No,No,No
+SESS-500058,2026-08-02,/verify,Google Organic,campus,Desktop,Karnataka,204,3,No,No,No
+SESS-500059,2026-07-29,/verify,Instagram,none,Desktop,Delhi,171,2,No,No,No
+SESS-500060,2026-07-04,/verify,LinkedIn,career-week,Mobile,Delhi,106,1,Yes,Yes,No
+SESS-500061,2026-07-06,/verify,Email,career-week,Mobile,Karnataka,105,3,No,No,No
+SESS-500062,2026-03-17,/faq,Instagram,starter,Mobile,Delhi,341,4,Yes,Yes,No
+SESS-500063,2026-05-24,/,Instagram,none,Mobile,West Bengal,367,2,No,No,No
+SESS-500064,2026-03-17,/faq,Direct,starter,Mobile,Telangana,182,3,No,No,No
+SESS-500065,2026-08-05,/register,Direct,career-week,Desktop,Maharashtra,494,6,No,No,No
+SESS-500066,2026-04-27,/,Direct,campus,Desktop,Tamil Nadu,205,3,No,No,No
+SESS-500067,2026-08-10,/faq,Direct,none,Desktop,Maharashtra,216,2,No,No,No
+SESS-500068,2026-01-18,/faq,Email,career-week,Tablet,Telangana,300,5,No,No,No
+SESS-500069,2026-02-07,/login,Direct,career-week,Mobile,Maharashtra,137,1,No,No,No
+SESS-500070,2026-01-13,/faq,Google Organic,starter,Mobile,Karnataka,177,2,No,No,No
+SESS-500071,2026-03-15,/faq,Google Organic,campus,Mobile,Delhi,94,3,Yes,Yes,No
+SESS-500072,2026-06-27,/register,Direct,none,Mobile,Tamil Nadu,70,1,No,No,No
+SESS-500073,2026-02-21,/,LinkedIn,campus,Mobile,Telangana,235,4,No,No,No
+SESS-500074,2026-04-15,/faq,Referral,starter,Desktop,Karnataka,78,1,No,No,No
+SESS-500075,2026-03-26,/register,Google Organic,campus,Desktop,Telangana,250,4,No,No,No
+SESS-500076,2026-01-04,/programs,Direct,starter,Mobile,Maharashtra,339,3,No,No,No
+SESS-500077,2026-06-26,/register,LinkedIn,campus,Desktop,Maharashtra,328,3,Yes,Yes,No
+SESS-500078,2026-02-06,/verify,Direct,none,Mobile,Delhi,369,1,Yes,No,No
+SESS-500079,2026-08-08,/faq,Google Organic,starter,Mobile,Tamil Nadu,214,2,No,No,No
+SESS-500080,2026-04-22,/,Instagram,career-week,Mobile,Telangana,242,2,No,No,No
+SESS-500081,2026-08-17,/faq,LinkedIn,career-week,Mobile,Maharashtra,109,1,No,No,No
+SESS-500082,2026-08-25,/programs,Google Organic,none,Desktop,Karnataka,174,3,No,No,No
+SESS-500083,2026-04-05,/faq,Google Organic,campus,Desktop,Tamil Nadu,597,7,Yes,Yes,No
+SESS-500084,2026-04-14,/login,LinkedIn,career-week,Desktop,Karnataka,266,1,Yes,No,No
+SESS-500085,2026-05-25,/login,Direct,campus,Mobile,Telangana,132,1,No,No,No
+SESS-500086,2026-07-27,/,Direct,career-week,Desktop,West Bengal,236,3,No,No,No
+SESS-500087,2026-01-05,/register,Google Organic,starter,Mobile,Delhi,387,6,No,No,No
+SESS-500088,2026-08-15,/programs,Instagram,career-week,Mobile,Telangana,328,5,Yes,Yes,No
+SESS-500089,2026-02-03,/register,Referral,campus,Desktop,Delhi,12,1,Yes,No,Yes
+SESS-500090,2026-06-03,/login,Direct,starter,Desktop,Telangana,39,3,No,No,No
+SESS-500091,2026-02-10,/login,LinkedIn,campus,Mobile,Telangana,78,2,No,No,No
+SESS-500092,2026-03-11,/,Referral,career-week,Desktop,Tamil Nadu,188,1,No,No,No
+SESS-500093,2026-04-29,/programs,Google Organic,none,Mobile,Maharashtra,212,3,Yes,No,No
+SESS-500094,2026-02-07,/faq,Email,campus,Mobile,West Bengal,168,4,No,No,No
+SESS-500095,2026-04-15,/,Instagram,career-week,Mobile,Delhi,299,3,No,No,No
+SESS-500096,2026-06-10,/login,Direct,starter,Desktop,West Bengal,331,5,No,No,No
+SESS-500097,2026-08-16,/faq,LinkedIn,career-week,Mobile,West Bengal,167,2,No,No,No
+SESS-500098,2026-03-22,/faq,Direct,starter,Tablet,West Bengal,263,5,Yes,Yes,No
+SESS-500099,2026-01-15,/faq,Direct,career-week,Desktop,Maharashtra,218,4,No,No,No
+SESS-500100,2026-05-28,/faq,LinkedIn,none,Desktop,Maharashtra,200,3,No,No,No
+SESS-500101,2026-03-28,/programs,Google Organic,career-week,Mobile,Delhi,356,6,Yes,Yes,No
+SESS-500102,2026-04-18,/faq,Direct,starter,Mobile,Delhi,145,1,Yes,Yes,No
+SESS-500103,2026-07-21,/,Direct,starter,Mobile,Tamil Nadu,4,1,No,No,Yes
+SESS-500104,2026-02-18,/login,Google Organic,none,Mobile,Karnataka,130,3,No,No,No
+SESS-500105,2026-03-04,/verify,LinkedIn,none,Mobile,Delhi,293,4,Yes,No,No
+SESS-500106,2026-01-02,/faq,Direct,none,Desktop,Maharashtra,168,2,No,No,No
+SESS-500107,2026-02-01,/login,Referral,starter,Mobile,West Bengal,136,5,Yes,No,No
+SESS-500108,2026-05-21,/programs,LinkedIn,career-week,Mobile,Telangana,114,2,Yes,Yes,No
+SESS-500109,2026-07-19,/verify,Direct,campus,Desktop,Tamil Nadu,92,2,No,No,No
+SESS-500110,2026-02-20,/verify,LinkedIn,none,Mobile,Karnataka,129,1,No,No,No
+SESS-500111,2026-04-30,/verify,Google Organic,none,Mobile,Telangana,388,5,No,No,No
+SESS-500112,2026-05-31,/programs,Direct,career-week,Mobile,Maharashtra,395,6,Yes,Yes,No
+SESS-500113,2026-07-01,/faq,LinkedIn,career-week,Mobile,Maharashtra,137,4,No,No,No
+SESS-500114,2026-01-23,/programs,Email,starter,Desktop,West Bengal,87,3,No,No,No
+SESS-500115,2026-06-17,/programs,Google Organic,campus,Mobile,Tamil Nadu,366,5,No,No,No
+SESS-500116,2026-05-27,/,Google Organic,campus,Desktop,Tamil Nadu,202,3,No,No,No
+SESS-500117,2026-03-10,/faq,Google Organic,none,Desktop,Karnataka,221,3,No,No,No
+SESS-500118,2026-04-16,/,Direct,campus,Mobile,Tamil Nadu,247,4,No,No,No
+SESS-500119,2026-07-13,/verify,LinkedIn,campus,Mobile,West Bengal,110,2,Yes,No,No
+SESS-500120,2026-08-05,/faq,Direct,starter,Desktop,Karnataka,189,2,No,No,No
+SESS-500121,2026-08-17,/login,Google Organic,career-week,Desktop,Karnataka,140,4,No,No,No
+SESS-500122,2026-03-31,/verify,Google Organic,none,Mobile,West Bengal,223,5,Yes,No,No
+SESS-500123,2026-08-02,/faq,LinkedIn,starter,Mobile,Karnataka,107,1,No,No,No
+SESS-500124,2026-06-09,/login,Direct,starter,Mobile,Delhi,319,4,No,No,No
+SESS-500125,2026-03-05,/programs,Direct,none,Mobile,Karnataka,4,2,No,No,No
+SESS-500126,2026-04-11,/verify,Referral,none,Desktop,Delhi,399,5,Yes,Yes,No
+SESS-500127,2026-05-24,/login,Referral,campus,Desktop,Telangana,409,5,Yes,No,No
+SESS-500128,2026-06-04,/programs,LinkedIn,career-week,Tablet,Maharashtra,181,3,No,No,No
+SESS-500129,2026-02-15,/register,LinkedIn,campus,Mobile,Delhi,113,1,No,No,No
+SESS-500130,2026-03-07,/,LinkedIn,campus,Mobile,Delhi,258,1,No,No,No
+SESS-500131,2026-08-12,/,Email,career-week,Desktop,Tamil Nadu,279,1,Yes,Yes,No
+SESS-500132,2026-03-01,/verify,Direct,career-week,Mobile,Tamil Nadu,166,3,No,No,No
+SESS-500133,2026-07-23,/programs,Instagram,starter,Mobile,Maharashtra,178,1,No,No,No
+SESS-500134,2026-05-17,/login,Direct,none,Mobile,Tamil Nadu,127,5,Yes,No,No
+SESS-500135,2026-05-11,/,Referral,starter,Desktop,West Bengal,274,3,Yes,Yes,No
+SESS-500136,2026-05-22,/register,Referral,none,Mobile,West Bengal,199,1,No,No,No
+SESS-500137,2026-02-01,/login,LinkedIn,campus,Mobile,Telangana,127,3,No,No,No
+SESS-500138,2026-07-16,/register,Google Organic,none,Mobile,Telangana,109,1,No,No,No
+SESS-500139,2026-03-04,/verify,Direct,starter,Mobile,Tamil Nadu,426,8,Yes,Yes,No
+SESS-500140,2026-02-19,/faq,Direct,none,Mobile,Telangana,30,1,No,No,Yes
+SESS-500141,2026-01-22,/login,Google Organic,campus,Desktop,West Bengal,53,1,No,No,No
+SESS-500142,2026-01-05,/register,Google Organic,none,Mobile,West Bengal,286,4,Yes,Yes,No
+SESS-500143,2026-01-06,/login,Email,campus,Desktop,West Bengal,146,3,No,No,No
+SESS-500144,2026-05-20,/,Google Organic,campus,Mobile,Maharashtra,362,4,Yes,No,No
+SESS-500145,2026-02-26,/faq,LinkedIn,career-week,Mobile,Delhi,126,2,No,No,No
+SESS-500146,2026-05-09,/register,Referral,career-week,Tablet,Karnataka,4,1,No,No,Yes
+SESS-500147,2026-04-13,/login,Direct,career-week,Mobile,Maharashtra,149,1,Yes,Yes,No
+SESS-500148,2026-01-29,/register,Referral,starter,Mobile,Karnataka,184,2,No,No,No
+SESS-500149,2026-04-22,/faq,Direct,none,Mobile,Tamil Nadu,195,2,No,No,No
+SESS-500150,2026-04-05,/register,Google Organic,none,Mobile,Tamil Nadu,279,6,No,No,No
+SESS-500151,2026-02-12,/register,Google Organic,campus,Desktop,West Bengal,195,4,Yes,Yes,No
+SESS-500152,2026-01-01,/faq,Google Organic,campus,Mobile,Delhi,71,1,No,No,No
+SESS-500153,2026-08-19,/,Email,career-week,Mobile,Maharashtra,253,3,No,No,No
+SESS-500154,2026-06-03,/faq,Direct,none,Desktop,Delhi,389,4,No,No,No
+SESS-500155,2026-01-21,/faq,Direct,starter,Desktop,Delhi,325,4,Yes,Yes,No
+SESS-500156,2026-02-24,/,Email,campus,Mobile,Delhi,304,2,No,No,No
+SESS-500157,2026-05-20,/,Direct,none,Desktop,Karnataka,93,2,No,No,No
+SESS-500158,2026-02-14,/register,Email,campus,Mobile,Tamil Nadu,164,3,No,No,No
+SESS-500159,2026-06-04,/register,Email,none,Desktop,Telangana,166,1,No,No,No
+SESS-500160,2026-04-23,/faq,Google Organic,career-week,Mobile,Telangana,148,1,No,No,No
+SESS-500161,2026-07-05,/register,Google Organic,career-week,Desktop,Tamil Nadu,275,2,No,No,No
+SESS-500162,2026-07-02,/,Email,starter,Mobile,Tamil Nadu,363,4,Yes,Yes,No
+SESS-500163,2026-01-11,/register,Email,none,Mobile,Maharashtra,293,3,Yes,Yes,No
+SESS-500164,2026-02-01,/faq,Referral,starter,Mobile,Delhi,238,4,Yes,No,No
+SESS-500165,2026-06-30,/,Direct,campus,Mobile,Maharashtra,224,4,No,No,No
+SESS-500166,2026-04-07,/,Direct,none,Mobile,Tamil Nadu,125,1,No,No,No
+SESS-500167,2026-02-21,/programs,Instagram,campus,Mobile,Tamil Nadu,118,2,No,No,No
+SESS-500168,2026-04-23,/programs,Direct,career-week,Mobile,Karnataka,438,6,No,No,No
+SESS-500169,2026-03-06,/verify,Google Organic,career-week,Mobile,Telangana,245,4,Yes,Yes,No
+SESS-500170,2026-08-05,/faq,Referral,career-week,Mobile,Karnataka,157,3,No,No,No
+SESS-500171,2026-04-02,/verify,Google Organic,none,Desktop,West Bengal,254,3,No,No,No
+SESS-500172,2026-06-16,/programs,Direct,campus,Desktop,Karnataka,217,2,No,No,No
+SESS-500173,2026-08-23,/verify,Instagram,starter,Desktop,Tamil Nadu,296,1,No,No,No
+SESS-500174,2026-06-09,/register,LinkedIn,career-week,Tablet,Telangana,272,4,No,No,No
+SESS-500175,2026-03-29,/programs,Google Organic,campus,Mobile,Delhi,288,5,No,No,No
+SESS-500176,2026-01-11,/faq,Google Organic,none,Mobile,Maharashtra,483,7,No,No,No
+SESS-500177,2026-02-09,/,Google Organic,career-week,Desktop,Karnataka,203,2,No,No,No
+SESS-500178,2026-05-03,/,Google Organic,career-week,Mobile,Maharashtra,236,5,No,No,No
+SESS-500179,2026-02-07,/login,LinkedIn,starter,Desktop,Telangana,306,4,No,No,No
+SESS-500180,2026-04-18,/programs,Direct,starter,Mobile,Maharashtra,376,6,No,No,No
+SESS-500181,2026-05-11,/login,Email,none,Mobile,Delhi,70,1,No,No,No
+SESS-500182,2026-04-19,/login,Google Organic,campus,Desktop,West Bengal,255,4,No,No,No
+SESS-500183,2026-07-17,/faq,Direct,starter,Mobile,West Bengal,204,5,No,No,No
+SESS-500184,2026-03-31,/verify,LinkedIn,starter,Mobile,Telangana,235,3,No,No,No
+SESS-500185,2026-07-15,/,Instagram,none,Mobile,West Bengal,345,4,No,No,No
+SESS-500186,2026-08-07,/,Direct,none,Desktop,Tamil Nadu,454,7,No,No,No
+SESS-500187,2026-08-19,/verify,Direct,none,Mobile,Maharashtra,4,2,No,No,No
+SESS-500188,2026-02-06,/register,Google Organic,campus,Mobile,Telangana,281,4,No,No,No
+SESS-500189,2026-02-28,/programs,Email,career-week,Mobile,West Bengal,371,5,No,No,No
+SESS-500190,2026-04-24,/,LinkedIn,none,Mobile,Telangana,343,6,Yes,No,No
+SESS-500191,2026-05-17,/faq,Google Organic,career-week,Mobile,Telangana,485,4,No,No,No
+SESS-500192,2026-08-24,/register,Referral,starter,Desktop,Telangana,331,6,Yes,Yes,No
+SESS-500193,2026-08-04,/faq,Google Organic,career-week,Desktop,West Bengal,266,4,Yes,Yes,No
+SESS-500194,2026-04-09,/programs,Email,none,Desktop,Telangana,267,2,Yes,Yes,No
+SESS-500195,2026-03-11,/register,Instagram,none,Mobile,Delhi,408,5,No,No,No
+SESS-500196,2026-03-28,/,LinkedIn,career-week,Mobile,West Bengal,142,5,No,No,No
+SESS-500197,2026-07-19,/faq,Direct,campus,Mobile,Maharashtra,323,4,No,No,No
+SESS-500198,2026-02-20,/register,Direct,career-week,Mobile,Maharashtra,131,2,Yes,No,No
+SESS-500199,2026-02-20,/,Email,starter,Mobile,West Bengal,25,4,No,No,No
+SESS-500200,2026-02-10,/login,LinkedIn,none,Tablet,West Bengal,369,5,No,No,No
+SESS-500201,2026-04-15,/login,LinkedIn,career-week,Mobile,Telangana,172,5,Yes,Yes,No
+SESS-500202,2026-04-28,/login,Google Organic,campus,Mobile,Telangana,242,4,Yes,Yes,No
+SESS-500203,2026-06-26,/verify,Direct,career-week,Mobile,Karnataka,215,1,Yes,No,No
+SESS-500204,2026-05-22,/,Google Organic,campus,Mobile,Telangana,497,6,No,No,No
+SESS-500205,2026-07-09,/,Google Organic,career-week,Mobile,Telangana,512,7,Yes,Yes,No
+SESS-500206,2026-01-21,/verify,LinkedIn,campus,Mobile,Delhi,74,1,No,No,No
+SESS-500207,2026-08-06,/faq,Email,starter,Mobile,West Bengal,4,1,No,No,Yes
+SESS-500208,2026-03-17,/programs,Direct,none,Mobile,Tamil Nadu,431,3,No,No,No
+SESS-500209,2026-03-21,/,LinkedIn,starter,Mobile,Maharashtra,340,5,No,No,No
+SESS-500210,2026-02-08,/register,Email,starter,Mobile,Tamil Nadu,209,2,No,No,No
+SESS-500211,2026-07-19,/register,Google Organic,campus,Desktop,Telangana,137,1,No,No,No
+SESS-500212,2026-02-05,/programs,Google Organic,campus,Mobile,Delhi,50,1,No,No,No
+SESS-500213,2026-04-05,/programs,Email,starter,Mobile,Maharashtra,184,1,No,No,No
+SESS-500214,2026-02-13,/faq,Google Organic,starter,Mobile,Tamil Nadu,60,2,Yes,No,No
+SESS-500215,2026-02-11,/verify,LinkedIn,career-week,Mobile,Karnataka,441,5,No,No,No
+SESS-500216,2026-04-01,/faq,Direct,starter,Tablet,Telangana,99,2,No,No,No
+SESS-500217,2026-01-31,/faq,LinkedIn,starter,Desktop,Telangana,336,5,No,No,No
+SESS-500218,2026-05-16,/verify,Google Organic,campus,Mobile,West Bengal,134,3,Yes,No,No
+SESS-500219,2026-01-31,/register,Email,none,Mobile,Maharashtra,193,2,Yes,Yes,No
+SESS-500220,2026-03-19,/,Instagram,career-week,Mobile,Karnataka,306,2,No,No,No
+SESS-500221,2026-01-03,/faq,Email,starter,Tablet,Maharashtra,207,2,Yes,Yes,No
+SESS-500222,2026-01-01,/verify,Google Organic,career-week,Desktop,Tamil Nadu,252,1,No,No,No
+SESS-500223,2026-06-08,/,Direct,career-week,Mobile,Karnataka,335,4,No,No,No
+SESS-500224,2026-03-09,/verify,LinkedIn,starter,Desktop,Tamil Nadu,387,6,No,No,No
+SESS-500225,2026-04-01,/programs,LinkedIn,starter,Mobile,Maharashtra,365,4,No,No,No
+SESS-500226,2026-07-05,/programs,Email,starter,Desktop,Delhi,139,1,No,No,No
+SESS-500227,2026-06-22,/faq,Instagram,none,Desktop,Karnataka,477,6,No,No,No
+SESS-500228,2026-06-22,/programs,Email,none,Mobile,Maharashtra,196,3,No,No,No
+SESS-500229,2026-05-15,/,Email,starter,Desktop,Delhi,326,5,No,No,No
+SESS-500230,2026-05-06,/programs,Direct,campus,Mobile,Delhi,304,6,Yes,Yes,No
+SESS-500231,2026-03-14,/register,Google Organic,starter,Tablet,Maharashtra,527,5,No,No,No
+SESS-500232,2026-08-24,/verify,Email,career-week,Tablet,Maharashtra,340,5,No,No,No
+SESS-500233,2026-03-09,/programs,Direct,starter,Desktop,West Bengal,300,4,No,No,No
+SESS-500234,2026-08-24,/programs,Google Organic,starter,Desktop,Karnataka,219,3,No,No,No
+SESS-500235,2026-03-10,/register,Instagram,campus,Mobile,Telangana,173,4,No,No,No
+SESS-500236,2026-05-07,/,Referral,starter,Mobile,Telangana,4,1,No,No,Yes
+SESS-500237,2026-01-31,/register,Direct,none,Mobile,Maharashtra,416,6,No,No,No
+SESS-500238,2026-03-07,/login,Google Organic,career-week,Desktop,Karnataka,754,11,Yes,Yes,No
+SESS-500239,2026-03-16,/register,Google Organic,campus,Mobile,Karnataka,87,3,Yes,No,No
+SESS-500240,2026-07-09,/verify,Email,campus,Mobile,Karnataka,517,8,No,No,No
+SESS-500241,2026-01-28,/faq,Referral,none,Mobile,Karnataka,362,5,Yes,Yes,No
+SESS-500242,2026-04-16,/verify,LinkedIn,campus,Mobile,Maharashtra,32,2,No,No,No
+SESS-500243,2026-04-01,/login,Google Organic,campus,Mobile,Telangana,210,1,Yes,No,No
+SESS-500244,2026-06-26,/login,LinkedIn,career-week,Mobile,Tamil Nadu,296,4,No,No,No
+SESS-500245,2026-03-23,/,Google Organic,none,Desktop,Tamil Nadu,305,3,Yes,Yes,No
+SESS-500246,2026-04-28,/login,Direct,campus,Mobile,Delhi,209,1,No,No,No
+SESS-500247,2026-03-31,/programs,Google Organic,campus,Mobile,Tamil Nadu,133,2,Yes,Yes,No
+SESS-500248,2026-06-24,/verify,Email,career-week,Mobile,Delhi,579,9,No,No,No
+SESS-500249,2026-07-12,/login,LinkedIn,none,Desktop,Telangana,215,3,No,No,No
+SESS-500250,2026-05-08,/programs,Direct,career-week,Desktop,West Bengal,4,1,Yes,Yes,Yes
+SESS-500251,2026-03-24,/faq,Google Organic,starter,Mobile,Tamil Nadu,317,3,Yes,No,No
+SESS-500252,2026-08-12,/verify,Direct,campus,Desktop,Telangana,352,7,Yes,Yes,No
+SESS-500253,2026-06-02,/verify,Instagram,campus,Desktop,Delhi,41,1,No,No,Yes
+SESS-500254,2026-08-23,/verify,Direct,campus,Mobile,Telangana,114,3,Yes,No,No
+SESS-500255,2026-03-12,/login,Google Organic,starter,Mobile,Maharashtra,215,4,No,No,No
+SESS-500256,2026-01-19,/,Email,starter,Desktop,West Bengal,68,3,No,No,No
+SESS-500257,2026-01-10,/,Google Organic,campus,Mobile,West Bengal,283,4,No,No,No
+SESS-500258,2026-04-14,/login,LinkedIn,none,Mobile,Telangana,480,6,Yes,Yes,No
+SESS-500259,2026-05-17,/register,LinkedIn,career-week,Mobile,Maharashtra,166,1,No,No,No
+SESS-500260,2026-02-08,/register,Google Organic,none,Mobile,Delhi,34,1,No,No,Yes
+SESS-500261,2026-04-09,/verify,Instagram,career-week,Mobile,Tamil Nadu,281,2,No,No,No
+SESS-500262,2026-07-26,/verify,Instagram,starter,Mobile,Tamil Nadu,286,1,Yes,Yes,No
+SESS-500263,2026-02-19,/programs,Direct,campus,Mobile,Tamil Nadu,366,3,No,No,No
+SESS-500264,2026-05-17,/login,LinkedIn,career-week,Mobile,Maharashtra,171,1,Yes,Yes,No
+SESS-500265,2026-05-02,/programs,Referral,campus,Desktop,Karnataka,100,1,No,No,No
+SESS-500266,2026-04-09,/login,Google Organic,campus,Mobile,Delhi,442,6,No,No,No
+SESS-500267,2026-06-03,/programs,Email,none,Mobile,Maharashtra,65,1,No,No,No
+SESS-500268,2026-04-02,/verify,Google Organic,starter,Tablet,Maharashtra,151,1,No,No,No
+SESS-500269,2026-04-22,/,Instagram,campus,Desktop,Telangana,202,3,Yes,Yes,No
+SESS-500270,2026-05-29,/programs,Direct,none,Mobile,West Bengal,140,1,No,No,No
+SESS-500271,2026-02-15,/login,LinkedIn,starter,Desktop,Telangana,14,1,No,No,Yes
+SESS-500272,2026-08-01,/faq,Referral,career-week,Mobile,Karnataka,284,5,No,No,No
+SESS-500273,2026-06-14,/verify,Google Organic,campus,Mobile,Delhi,131,1,No,No,No
+SESS-500274,2026-06-03,/verify,Google Organic,none,Mobile,Maharashtra,237,3,Yes,No,No
+SESS-500275,2026-04-14,/verify,LinkedIn,campus,Mobile,Telangana,4,1,Yes,No,Yes
+SESS-500276,2026-04-17,/,Google Organic,none,Tablet,Maharashtra,257,5,No,No,No
+SESS-500277,2026-03-11,/verify,Google Organic,career-week,Mobile,Maharashtra,232,2,No,No,No
+SESS-500278,2026-01-28,/faq,Referral,none,Mobile,Maharashtra,256,6,No,No,No
+SESS-500279,2026-02-26,/programs,Email,career-week,Desktop,Tamil Nadu,228,3,No,No,No
+SESS-500280,2026-01-16,/faq,Email,starter,Mobile,Maharashtra,441,4,Yes,Yes,No
+SESS-500281,2026-01-02,/,Email,campus,Mobile,Tamil Nadu,247,3,No,No,No
+SESS-500282,2026-08-27,/programs,Direct,career-week,Mobile,Telangana,431,6,Yes,Yes,No
+SESS-500283,2026-06-16,/verify,Direct,none,Tablet,Delhi,184,1,No,No,No
+SESS-500284,2026-03-07,/programs,Email,starter,Mobile,Maharashtra,393,4,Yes,No,No
+SESS-500285,2026-01-07,/register,Referral,career-week,Mobile,West Bengal,397,6,No,No,No
+SESS-500286,2026-01-04,/register,LinkedIn,none,Mobile,Tamil Nadu,151,2,No,No,No
+SESS-500287,2026-08-17,/login,LinkedIn,campus,Desktop,Telangana,473,6,Yes,Yes,No
+SESS-500288,2026-04-28,/login,Google Organic,starter,Mobile,Telangana,350,5,Yes,Yes,No
+SESS-500289,2026-07-03,/,Referral,career-week,Desktop,West Bengal,653,6,No,No,No
+SESS-500290,2026-02-23,/,Referral,campus,Mobile,West Bengal,202,1,No,No,No
+SESS-500291,2026-02-04,/,Direct,campus,Mobile,Tamil Nadu,247,2,No,No,No
+SESS-500292,2026-05-03,/,Email,campus,Mobile,West Bengal,410,6,No,No,No
+SESS-500293,2026-01-05,/verify,LinkedIn,none,Mobile,Delhi,279,5,Yes,Yes,No
+SESS-500294,2026-03-18,/programs,Referral,career-week,Mobile,Telangana,401,5,No,No,No
+SESS-500295,2026-01-31,/programs,Direct,starter,Mobile,West Bengal,77,2,Yes,No,No
+SESS-500296,2026-08-24,/programs,Direct,none,Mobile,West Bengal,426,2,No,No,No
+SESS-500297,2026-03-17,/register,Direct,none,Desktop,Delhi,558,7,No,No,No
+SESS-500298,2026-01-05,/,Direct,career-week,Mobile,Tamil Nadu,124,4,No,No,No
+SESS-500299,2026-02-22,/programs,Email,campus,Mobile,Karnataka,8,3,No,No,No
+SESS-500300,2026-05-30,/faq,Google Organic,campus,Mobile,Maharashtra,177,1,No,No,No
+SESS-500301,2026-03-01,/verify,Google Organic,none,Mobile,Delhi,463,6,No,No,No
+SESS-500302,2026-08-11,/register,Direct,career-week,Desktop,Maharashtra,339,5,Yes,Yes,No
+SESS-500303,2026-05-22,/login,Google Organic,none,Desktop,West Bengal,201,2,No,No,No
+SESS-500304,2026-07-14,/register,Email,career-week,Tablet,Delhi,317,6,No,No,No
+SESS-500305,2026-02-10,/,Email,campus,Mobile,Telangana,253,3,No,No,No
+SESS-500306,2026-07-09,/faq,LinkedIn,none,Desktop,Karnataka,257,4,No,No,No
+SESS-500307,2026-08-16,/,Email,none,Desktop,Telangana,376,5,Yes,No,No
+SESS-500308,2026-06-11,/faq,Instagram,career-week,Mobile,West Bengal,549,6,No,No,No
+SESS-500309,2026-06-24,/faq,Google Organic,campus,Mobile,Delhi,170,5,Yes,Yes,No
+SESS-500310,2026-04-18,/register,Google Organic,none,Desktop,Karnataka,677,9,No,No,No
+SESS-500311,2026-03-27,/faq,Google Organic,campus,Mobile,West Bengal,177,3,No,No,No
+SESS-500312,2026-07-02,/register,Google Organic,starter,Desktop,Telangana,394,4,Yes,No,No
+SESS-500313,2026-02-28,/login,Google Organic,none,Mobile,Tamil Nadu,214,2,No,No,No
+SESS-500314,2026-03-19,/register,Email,starter,Mobile,Tamil Nadu,263,6,No,No,No
+SESS-500315,2026-02-03,/login,Direct,campus,Mobile,Delhi,318,4,Yes,Yes,No
+SESS-500316,2026-02-15,/faq,Email,campus,Mobile,West Bengal,56,1,No,No,No
+SESS-500317,2026-04-16,/register,Referral,starter,Mobile,West Bengal,4,1,No,No,Yes
+SESS-500318,2026-01-27,/faq,Instagram,career-week,Mobile,Maharashtra,67,2,Yes,Yes,No
+SESS-500319,2026-03-15,/verify,Google Organic,career-week,Mobile,Delhi,237,3,No,No,No
+SESS-500320,2026-07-04,/faq,Instagram,career-week,Mobile,Maharashtra,106,1,Yes,No,No
+SESS-500321,2026-05-16,/login,Instagram,career-week,Mobile,Karnataka,414,6,No,No,No
+SESS-500322,2026-04-18,/programs,Email,campus,Mobile,Maharashtra,130,4,No,No,No
+SESS-500323,2026-05-19,/programs,Google Organic,career-week,Mobile,Telangana,155,2,No,No,No
+SESS-500324,2026-02-18,/login,Direct,starter,Mobile,Karnataka,182,2,No,No,No
+SESS-500325,2026-01-14,/programs,LinkedIn,career-week,Desktop,Telangana,406,3,No,No,No
+SESS-500326,2026-08-02,/,Referral,campus,Desktop,Telangana,267,6,Yes,No,No
+SESS-500327,2026-06-24,/,Email,career-week,Mobile,Telangana,388,3,No,No,No
+SESS-500328,2026-07-01,/login,LinkedIn,campus,Mobile,Telangana,156,2,No,No,No
+SESS-500329,2026-03-16,/faq,Direct,none,Tablet,Karnataka,42,3,No,No,No
+SESS-500330,2026-05-29,/faq,Google Organic,career-week,Mobile,Tamil Nadu,74,2,No,No,No
+SESS-500331,2026-01-02,/programs,Direct,none,Desktop,Telangana,80,3,No,No,No
+SESS-500332,2026-02-15,/faq,LinkedIn,none,Desktop,Tamil Nadu,264,3,Yes,Yes,No
+SESS-500333,2026-04-20,/register,Google Organic,starter,Mobile,Delhi,85,2,No,No,No
+SESS-500334,2026-05-25,/programs,Direct,career-week,Mobile,Delhi,180,2,No,No,No
+SESS-500335,2026-08-26,/login,Direct,career-week,Mobile,Delhi,326,2,No,No,No
+SESS-500336,2026-07-13,/,Direct,starter,Mobile,Delhi,193,1,No,No,No
+SESS-500337,2026-03-17,/register,LinkedIn,none,Desktop,Delhi,369,3,No,No,No
+SESS-500338,2026-05-11,/programs,Instagram,campus,Desktop,Delhi,296,3,Yes,No,No
+SESS-500339,2026-07-09,/verify,Google Organic,campus,Mobile,Delhi,237,2,Yes,No,No
+SESS-500340,2026-05-14,/login,Email,none,Mobile,Karnataka,325,3,No,No,No
+SESS-500341,2026-05-06,/login,Google Organic,starter,Mobile,Maharashtra,307,5,No,No,No
+SESS-500342,2026-07-06,/register,Google Organic,campus,Tablet,Maharashtra,252,2,No,No,No
+SESS-500343,2026-02-19,/,Instagram,starter,Mobile,Telangana,312,5,Yes,Yes,No
+SESS-500344,2026-05-29,/login,Google Organic,career-week,Desktop,Karnataka,325,7,Yes,Yes,No
+SESS-500345,2026-08-16,/verify,Instagram,campus,Desktop,Maharashtra,210,5,Yes,Yes,No
+SESS-500346,2026-07-23,/,Google Organic,campus,Mobile,Maharashtra,299,6,Yes,Yes,No
+SESS-500347,2026-05-10,/faq,Instagram,none,Mobile,Delhi,232,3,Yes,Yes,No
+SESS-500348,2026-08-09,/login,LinkedIn,career-week,Mobile,Karnataka,494,6,No,No,No
+SESS-500349,2026-07-24,/verify,Instagram,career-week,Mobile,Karnataka,426,4,No,No,No
+SESS-500350,2026-04-10,/faq,Google Organic,starter,Desktop,Delhi,276,3,No,No,No
+SESS-500351,2026-06-15,/login,Google Organic,campus,Mobile,Telangana,350,7,Yes,Yes,No
+SESS-500352,2026-01-20,/register,Direct,none,Mobile,Telangana,192,3,Yes,No,No
+SESS-500353,2026-05-01,/login,LinkedIn,none,Mobile,Telangana,329,7,No,No,No
+SESS-500354,2026-06-02,/login,Google Organic,starter,Desktop,West Bengal,197,3,No,No,No
+SESS-500355,2026-06-14,/verify,Google Organic,career-week,Mobile,Delhi,489,5,No,No,No
+SESS-500356,2026-06-21,/verify,Instagram,none,Mobile,Karnataka,259,5,No,No,No
+SESS-500357,2026-07-02,/verify,Instagram,campus,Mobile,Maharashtra,452,4,No,No,No
+SESS-500358,2026-03-08,/,Direct,starter,Mobile,Tamil Nadu,243,5,Yes,Yes,No
+SESS-500359,2026-08-25,/verify,Google Organic,starter,Mobile,Maharashtra,344,6,No,No,No
+SESS-500360,2026-04-24,/faq,Email,none,Desktop,Delhi,410,4,No,No,No
+SESS-500361,2026-06-02,/register,LinkedIn,campus,Tablet,Delhi,208,3,No,No,No
+SESS-500362,2026-04-19,/programs,Google Organic,none,Desktop,Delhi,357,2,Yes,No,No
+SESS-500363,2026-02-11,/verify,LinkedIn,campus,Desktop,Karnataka,543,7,No,No,No
+SESS-500364,2026-06-03,/verify,Google Organic,campus,Desktop,Delhi,118,2,No,No,No
+SESS-500365,2026-04-07,/login,Google Organic,career-week,Mobile,Karnataka,363,5,No,No,No
+SESS-500366,2026-01-12,/,Google Organic,career-week,Mobile,Karnataka,389,5,No,No,No
+SESS-500367,2026-04-26,/login,Instagram,none,Mobile,Karnataka,203,2,Yes,No,No
+SESS-500368,2026-07-05,/register,Direct,career-week,Desktop,West Bengal,4,1,No,No,Yes
+SESS-500369,2026-07-30,/faq,Email,campus,Mobile,Maharashtra,62,1,No,No,No
+SESS-500370,2026-07-23,/login,Direct,none,Desktop,Delhi,146,3,Yes,No,No
+SESS-500371,2026-05-19,/verify,Email,career-week,Desktop,Tamil Nadu,239,2,Yes,Yes,No
+SESS-500372,2026-04-22,/,Instagram,campus,Desktop,Delhi,254,5,No,No,No
+SESS-500373,2026-05-09,/faq,Google Organic,career-week,Mobile,Delhi,191,2,Yes,Yes,No
+SESS-500374,2026-04-19,/faq,Google Organic,starter,Mobile,Maharashtra,310,5,No,No,No
+SESS-500375,2026-03-31,/,LinkedIn,none,Mobile,Karnataka,326,6,No,No,No
+SESS-500376,2026-04-13,/,Instagram,starter,Desktop,Karnataka,57,3,Yes,Yes,No
+SESS-500377,2026-01-06,/faq,Email,campus,Desktop,West Bengal,276,2,Yes,No,No
+SESS-500378,2026-07-16,/login,Email,campus,Mobile,West Bengal,123,1,Yes,Yes,No
+SESS-500379,2026-03-28,/programs,Instagram,none,Tablet,Maharashtra,421,4,No,No,No
+SESS-500380,2026-03-01,/verify,Google Organic,campus,Desktop,Tamil Nadu,539,5,Yes,No,No
+SESS-500381,2026-05-12,/faq,Google Organic,none,Desktop,Maharashtra,279,5,Yes,No,No
+SESS-500382,2026-03-09,/register,Email,campus,Desktop,Tamil Nadu,256,3,Yes,Yes,No
+SESS-500383,2026-05-01,/faq,Direct,career-week,Mobile,Tamil Nadu,516,4,Yes,No,No
+SESS-500384,2026-01-08,/faq,Email,none,Mobile,Tamil Nadu,39,2,No,No,No
+SESS-500385,2026-02-22,/programs,Direct,none,Mobile,Delhi,286,5,Yes,Yes,No
+SESS-500386,2026-01-16,/faq,Email,campus,Desktop,Tamil Nadu,285,4,No,No,No
+SESS-500387,2026-05-10,/verify,Direct,none,Mobile,Delhi,597,9,No,No,No
+SESS-500388,2026-05-01,/login,Referral,starter,Mobile,Maharashtra,182,3,Yes,No,No
+SESS-500389,2026-02-03,/faq,Google Organic,starter,Mobile,Delhi,287,3,No,No,No
+SESS-500390,2026-02-05,/faq,Google Organic,none,Mobile,Tamil Nadu,562,6,No,No,No
+SESS-500391,2026-06-12,/register,Instagram,campus,Mobile,Telangana,181,4,No,No,No
+SESS-500392,2026-04-29,/register,Google Organic,campus,Mobile,Karnataka,449,4,No,No,No
+SESS-500393,2026-07-15,/faq,Direct,career-week,Desktop,Karnataka,90,1,No,No,No
+SESS-500394,2026-05-12,/verify,Referral,starter,Mobile,Telangana,297,4,No,No,No
+SESS-500395,2026-03-22,/faq,Google Organic,career-week,Desktop,Maharashtra,217,3,No,No,No
+SESS-500396,2026-08-03,/,Direct,campus,Mobile,Karnataka,199,6,No,No,No
+SESS-500397,2026-02-22,/programs,Google Organic,none,Mobile,Karnataka,111,1,No,No,No
+SESS-500398,2026-07-11,/login,Google Organic,none,Mobile,Maharashtra,105,2,No,No,No
+SESS-500399,2026-04-18,/programs,Google Organic,campus,Mobile,Karnataka,231,2,No,No,No
+SESS-500400,2026-04-04,/programs,Email,career-week,Desktop,Delhi,279,5,Yes,No,No
+SESS-500401,2026-01-31,/faq,Referral,career-week,Mobile,Telangana,218,3,No,No,No
+SESS-500402,2026-08-18,/,Google Organic,starter,Mobile,Delhi,381,5,No,No,No
+SESS-500403,2026-03-29,/login,Google Organic,career-week,Mobile,Maharashtra,198,2,Yes,Yes,No
+SESS-500404,2026-07-02,/register,Direct,none,Mobile,Tamil Nadu,461,5,No,No,No
+SESS-500405,2026-06-04,/register,LinkedIn,none,Mobile,Delhi,249,4,No,No,No
+SESS-500406,2026-07-27,/login,Referral,career-week,Mobile,Tamil Nadu,35,3,Yes,Yes,No
+SESS-500407,2026-08-02,/login,Google Organic,career-week,Desktop,Tamil Nadu,69,1,No,No,No
+SESS-500408,2026-07-13,/verify,Direct,career-week,Desktop,Delhi,206,4,Yes,Yes,No
+SESS-500409,2026-03-03,/,Google Organic,career-week,Mobile,Telangana,270,4,No,No,No
+SESS-500410,2026-07-22,/faq,Instagram,career-week,Mobile,Telangana,282,4,Yes,Yes,No
+SESS-500411,2026-07-03,/login,LinkedIn,campus,Desktop,Telangana,109,1,No,No,No
+SESS-500412,2026-04-15,/register,Instagram,none,Mobile,West Bengal,215,5,No,No,No
+SESS-500413,2026-07-24,/programs,Google Organic,none,Mobile,Delhi,268,3,Yes,Yes,No
+SESS-500414,2026-08-06,/faq,Direct,starter,Desktop,Delhi,513,5,Yes,Yes,No
+SESS-500415,2026-06-24,/,LinkedIn,starter,Mobile,Tamil Nadu,203,3,No,No,No
+SESS-500416,2026-03-30,/programs,Google Organic,career-week,Desktop,Maharashtra,237,3,No,No,No
+SESS-500417,2026-05-02,/programs,Direct,career-week,Mobile,Telangana,376,6,Yes,Yes,No
+SESS-500418,2026-05-28,/programs,Direct,campus,Mobile,Telangana,472,7,Yes,No,No
+SESS-500419,2026-03-21,/faq,Direct,campus,Mobile,Telangana,350,5,No,No,No
+SESS-500420,2026-05-19,/verify,LinkedIn,starter,Desktop,Maharashtra,325,3,Yes,Yes,No
+SESS-500421,2026-06-25,/programs,Email,none,Mobile,Maharashtra,434,7,No,No,No
+SESS-500422,2026-01-02,/login,Direct,campus,Tablet,Delhi,494,6,No,No,No
+SESS-500423,2026-04-05,/login,Google Organic,none,Mobile,Maharashtra,118,1,No,No,No
+SESS-500424,2026-05-07,/login,Direct,campus,Mobile,Maharashtra,312,6,No,No,No
+SESS-500425,2026-04-25,/programs,Direct,starter,Mobile,Telangana,269,4,Yes,Yes,No
+SESS-500426,2026-03-11,/login,Direct,campus,Desktop,Tamil Nadu,289,4,No,No,No
+SESS-500427,2026-04-30,/,Email,starter,Mobile,Karnataka,139,2,No,No,No
+SESS-500428,2026-04-20,/,Email,campus,Tablet,Telangana,221,3,No,No,No
+SESS-500429,2026-07-29,/faq,Referral,career-week,Mobile,Delhi,280,3,No,No,No
+SESS-500430,2026-01-28,/faq,Referral,career-week,Mobile,Tamil Nadu,78,1,Yes,Yes,No
+SESS-500431,2026-05-02,/login,Google Organic,starter,Mobile,Tamil Nadu,190,3,Yes,No,No
+SESS-500432,2026-03-12,/login,Direct,starter,Mobile,Maharashtra,323,4,No,No,No
+SESS-500433,2026-07-07,/,Referral,career-week,Mobile,Telangana,53,1,No,No,No
+SESS-500434,2026-07-25,/register,Direct,starter,Mobile,Telangana,138,3,No,No,No
+SESS-500435,2026-04-12,/login,Instagram,none,Mobile,West Bengal,593,9,No,No,No
+SESS-500436,2026-07-23,/register,Referral,campus,Mobile,Tamil Nadu,270,4,No,No,No
+SESS-500437,2026-03-02,/verify,Direct,none,Mobile,West Bengal,159,4,No,No,No
+SESS-500438,2026-07-25,/programs,LinkedIn,starter,Desktop,Maharashtra,340,4,Yes,Yes,No
+SESS-500439,2026-05-24,/register,Referral,starter,Mobile,Telangana,221,5,No,No,No
+SESS-500440,2026-04-18,/verify,Google Organic,starter,Mobile,Telangana,411,3,No,No,No
+SESS-500441,2026-07-29,/register,Instagram,starter,Mobile,West Bengal,152,2,No,No,No
+SESS-500442,2026-05-25,/faq,Email,career-week,Mobile,Maharashtra,100,2,No,No,No
+SESS-500443,2026-06-22,/programs,Google Organic,career-week,Desktop,Delhi,218,2,No,No,No
+SESS-500444,2026-02-02,/programs,Google Organic,career-week,Mobile,Telangana,323,5,No,No,No
+SESS-500445,2026-05-21,/programs,Direct,campus,Mobile,Delhi,153,3,No,No,No
+SESS-500446,2026-04-26,/register,Direct,none,Desktop,West Bengal,293,2,No,No,No
+SESS-500447,2026-08-13,/register,Direct,none,Mobile,Delhi,335,4,Yes,No,No
+SESS-500448,2026-07-28,/programs,Email,campus,Mobile,Karnataka,292,7,No,No,No
+SESS-500449,2026-05-02,/,LinkedIn,none,Mobile,Telangana,32,1,No,No,Yes
+SESS-500450,2026-04-09,/register,Instagram,career-week,Desktop,Delhi,353,6,Yes,Yes,No
+SESS-500451,2026-03-14,/programs,Instagram,none,Mobile,Telangana,49,1,No,No,No
+SESS-500452,2026-05-21,/login,Google Organic,career-week,Tablet,Karnataka,178,2,No,No,No
+SESS-500453,2026-08-06,/faq,Direct,campus,Tablet,Telangana,128,2,No,No,No
+SESS-500454,2026-06-19,/register,Google Organic,campus,Mobile,Maharashtra,522,6,No,No,No
+SESS-500455,2026-03-07,/verify,Direct,career-week,Mobile,Delhi,295,2,Yes,Yes,No
+SESS-500456,2026-04-22,/faq,Google Organic,career-week,Mobile,West Bengal,114,3,No,No,No
+SESS-500457,2026-05-31,/verify,Direct,none,Mobile,Delhi,354,7,No,No,No
+SESS-500458,2026-08-19,/faq,Google Organic,starter,Mobile,Karnataka,237,4,No,No,No
+SESS-500459,2026-03-18,/login,LinkedIn,campus,Desktop,Maharashtra,430,4,Yes,No,No
+SESS-500460,2026-07-21,/faq,Google Organic,career-week,Mobile,Telangana,281,2,Yes,No,No
+SESS-500461,2026-01-17,/,Google Organic,starter,Mobile,Karnataka,260,6,Yes,Yes,No
+SESS-500462,2026-08-24,/register,Email,none,Mobile,Tamil Nadu,305,3,No,No,No
+SESS-500463,2026-01-27,/programs,Direct,none,Mobile,West Bengal,129,1,No,No,No
+SESS-500464,2026-01-23,/,Google Organic,starter,Mobile,Karnataka,193,1,No,No,No
+SESS-500465,2026-04-16,/verify,Google Organic,starter,Mobile,Karnataka,401,4,No,No,No
+SESS-500466,2026-01-01,/,Google Organic,campus,Mobile,Tamil Nadu,319,5,No,No,No
+SESS-500467,2026-02-21,/verify,Instagram,none,Desktop,Delhi,176,4,Yes,Yes,No
+SESS-500468,2026-06-26,/faq,Direct,none,Mobile,Tamil Nadu,111,1,No,No,No
+SESS-500469,2026-02-06,/verify,Google Organic,career-week,Mobile,Tamil Nadu,239,2,No,No,No
+SESS-500470,2026-06-26,/login,Email,career-week,Desktop,Delhi,4,3,No,No,No
+SESS-500471,2026-06-02,/faq,Email,starter,Mobile,Karnataka,127,2,No,No,No
+SESS-500472,2026-01-23,/verify,Google Organic,none,Mobile,West Bengal,122,1,No,No,No
+SESS-500473,2026-05-22,/programs,Direct,starter,Desktop,Maharashtra,142,1,No,No,No
+SESS-500474,2026-07-23,/programs,Google Organic,starter,Desktop,Delhi,115,2,No,No,No
+SESS-500475,2026-03-31,/faq,LinkedIn,starter,Desktop,Maharashtra,374,6,No,No,No
+SESS-500476,2026-06-07,/programs,Google Organic,campus,Mobile,Telangana,399,5,No,No,No
+SESS-500477,2026-05-03,/faq,Google Organic,starter,Mobile,Telangana,254,2,No,No,No
+SESS-500478,2026-01-11,/login,Email,career-week,Desktop,West Bengal,59,2,No,No,No
+SESS-500479,2026-06-25,/,Direct,career-week,Mobile,Tamil Nadu,326,5,No,No,No
+SESS-500480,2026-06-11,/verify,Google Organic,starter,Desktop,Delhi,173,1,Yes,Yes,No
+SESS-500481,2026-01-27,/register,Instagram,campus,Mobile,Tamil Nadu,4,1,No,No,Yes
+SESS-500482,2026-05-03,/register,Instagram,campus,Desktop,West Bengal,150,3,Yes,No,No
+SESS-500483,2026-02-07,/faq,Instagram,campus,Desktop,Telangana,579,6,No,No,No
+SESS-500484,2026-02-28,/register,Google Organic,campus,Mobile,Telangana,471,6,Yes,No,No
+SESS-500485,2026-03-23,/login,Direct,campus,Desktop,West Bengal,196,3,No,No,No
+SESS-500486,2026-06-16,/verify,Google Organic,starter,Mobile,Telangana,360,5,No,No,No
+SESS-500487,2026-07-30,/faq,Referral,none,Mobile,Delhi,97,4,Yes,Yes,No
+SESS-500488,2026-01-12,/,LinkedIn,starter,Mobile,Telangana,426,4,No,No,No
+SESS-500489,2026-02-19,/programs,Instagram,starter,Desktop,Karnataka,373,6,No,No,No
+SESS-500490,2026-06-01,/register,LinkedIn,none,Desktop,Delhi,78,1,No,No,No
+SESS-500491,2026-04-23,/,Referral,none,Mobile,Karnataka,4,1,No,No,Yes
+SESS-500492,2026-04-10,/faq,Google Organic,career-week,Desktop,Tamil Nadu,282,3,Yes,Yes,No
+SESS-500493,2026-08-24,/login,Email,campus,Mobile,West Bengal,289,3,Yes,Yes,No
+SESS-500494,2026-05-04,/,Instagram,campus,Mobile,Telangana,286,3,Yes,No,No
+SESS-500495,2026-08-26,/programs,Google Organic,none,Mobile,West Bengal,449,8,Yes,No,No
+SESS-500496,2026-08-06,/faq,Google Organic,campus,Mobile,West Bengal,143,1,No,No,No
+SESS-500497,2026-06-29,/verify,Referral,none,Tablet,Karnataka,125,2,Yes,No,No
+SESS-500498,2026-07-31,/faq,Instagram,none,Mobile,Maharashtra,122,2,No,No,No
+SESS-500499,2026-04-05,/verify,Referral,none,Mobile,Delhi,359,6,No,No,No
+SESS-500500,2026-05-31,/verify,Referral,career-week,Mobile,Delhi,558,9,Yes,Yes,No
+SESS-500501,2026-08-09,/register,LinkedIn,starter,Mobile,Telangana,301,6,No,No,No
+SESS-500502,2026-05-06,/login,Direct,starter,Desktop,Tamil Nadu,11,1,No,No,Yes
+SESS-500503,2026-01-08,/,Instagram,starter,Mobile,Tamil Nadu,435,5,No,No,No
+SESS-500504,2026-07-03,/verify,Email,career-week,Mobile,Maharashtra,210,3,No,No,No
+SESS-500505,2026-07-15,/login,Email,campus,Mobile,Maharashtra,334,4,No,No,No
+SESS-500506,2026-01-03,/,LinkedIn,starter,Mobile,West Bengal,455,7,No,No,No
+SESS-500507,2026-03-07,/verify,Instagram,starter,Mobile,West Bengal,429,8,No,No,No
+SESS-500508,2026-07-04,/register,Google Organic,none,Mobile,Tamil Nadu,246,5,No,No,No
+SESS-500509,2026-06-07,/register,Instagram,career-week,Desktop,Maharashtra,410,4,Yes,Yes,No
+SESS-500510,2026-04-24,/programs,Email,campus,Mobile,Karnataka,521,9,No,No,No
+SESS-500511,2026-07-21,/login,Google Organic,starter,Mobile,Maharashtra,398,6,No,No,No
+SESS-500512,2026-03-19,/faq,Referral,none,Mobile,Karnataka,120,1,No,No,No
+SESS-500513,2026-04-15,/register,Email,none,Mobile,Karnataka,279,4,No,No,No
+SESS-500514,2026-04-09,/,Instagram,starter,Mobile,West Bengal,133,3,No,No,No
+SESS-500515,2026-08-05,/login,Instagram,campus,Mobile,Telangana,265,4,Yes,No,No
+SESS-500516,2026-03-20,/verify,Google Organic,none,Mobile,West Bengal,30,1,No,No,Yes
+SESS-500517,2026-07-10,/faq,Email,starter,Desktop,Maharashtra,401,5,No,No,No
+SESS-500518,2026-05-30,/login,Google Organic,starter,Mobile,Karnataka,328,5,No,No,No
+SESS-500519,2026-08-20,/programs,Google Organic,starter,Mobile,Karnataka,237,5,No,No,No
+SESS-500520,2026-04-02,/programs,Email,none,Mobile,Maharashtra,429,4,No,No,No
+SESS-500521,2026-04-11,/faq,Google Organic,none,Mobile,Karnataka,190,5,Yes,No,No
+SESS-500522,2026-04-15,/register,Direct,none,Mobile,Telangana,176,2,No,No,No
+SESS-500523,2026-06-02,/,Direct,campus,Desktop,Delhi,108,2,No,No,No
+SESS-500524,2026-02-01,/login,Email,none,Mobile,Delhi,615,9,Yes,Yes,No
+SESS-500525,2026-05-18,/register,Direct,career-week,Mobile,Karnataka,340,5,No,No,No
+SESS-500526,2026-05-13,/register,Referral,career-week,Desktop,Delhi,158,2,No,No,No
+SESS-500527,2026-06-02,/register,Direct,none,Mobile,Delhi,213,3,No,No,No
+SESS-500528,2026-07-11,/programs,Google Organic,starter,Desktop,West Bengal,365,4,No,No,No
+SESS-500529,2026-04-19,/faq,Direct,none,Mobile,Karnataka,169,4,Yes,Yes,No
+SESS-500530,2026-06-30,/,Google Organic,career-week,Mobile,Karnataka,277,4,Yes,No,No
+SESS-500531,2026-01-28,/verify,LinkedIn,none,Mobile,Delhi,4,1,No,No,Yes
+SESS-500532,2026-07-11,/faq,LinkedIn,starter,Desktop,Tamil Nadu,47,4,No,No,No
+SESS-500533,2026-08-20,/programs,Direct,none,Tablet,Karnataka,263,4,Yes,No,No
+SESS-500534,2026-02-07,/faq,Google Organic,none,Mobile,Delhi,190,2,Yes,No,No
+SESS-500535,2026-04-21,/register,LinkedIn,none,Mobile,Telangana,334,4,No,No,No
+SESS-500536,2026-03-08,/programs,LinkedIn,none,Mobile,Karnataka,191,2,Yes,No,No
+SESS-500537,2026-07-25,/register,Direct,starter,Desktop,Telangana,168,1,No,No,No
+SESS-500538,2026-05-29,/,Email,career-week,Mobile,West Bengal,4,2,No,No,No
+SESS-500539,2026-07-07,/programs,Email,none,Mobile,West Bengal,305,4,No,No,No
+SESS-500540,2026-03-21,/register,Instagram,career-week,Desktop,Delhi,242,3,No,No,No
+SESS-500541,2026-08-01,/verify,Email,campus,Mobile,Maharashtra,67,3,No,No,No
+SESS-500542,2026-07-07,/,LinkedIn,none,Mobile,Karnataka,294,3,No,No,No
+SESS-500543,2026-07-17,/faq,Google Organic,campus,Mobile,Tamil Nadu,100,1,Yes,No,No
+SESS-500544,2026-07-27,/verify,Referral,campus,Mobile,Maharashtra,275,5,Yes,Yes,No
+SESS-500545,2026-08-02,/verify,Direct,starter,Desktop,Delhi,353,6,Yes,Yes,No
+SESS-500546,2026-07-02,/register,Instagram,starter,Mobile,Telangana,88,4,No,No,No
+SESS-500547,2026-03-23,/register,Google Organic,starter,Mobile,Maharashtra,200,3,No,No,No
+SESS-500548,2026-01-17,/login,Direct,campus,Mobile,Tamil Nadu,154,1,No,No,No
+SESS-500549,2026-08-19,/register,Direct,career-week,Desktop,Tamil Nadu,279,6,Yes,Yes,No
+SESS-500550,2026-08-27,/programs,Email,campus,Mobile,Telangana,222,3,Yes,Yes,No
+SESS-500551,2026-03-07,/verify,Direct,none,Mobile,Karnataka,55,1,No,No,No
+SESS-500552,2026-08-08,/,Email,none,Mobile,Tamil Nadu,167,3,Yes,No,No
+SESS-500553,2026-02-03,/register,LinkedIn,none,Mobile,Delhi,181,1,No,No,No
+SESS-500554,2026-06-26,/login,Google Organic,starter,Desktop,Telangana,139,1,No,No,No
+SESS-500555,2026-08-12,/verify,Google Organic,campus,Tablet,West Bengal,23,1,No,No,Yes
+SESS-500556,2026-01-26,/,Direct,campus,Desktop,Telangana,271,5,No,No,No
+SESS-500557,2026-07-30,/,Instagram,none,Mobile,Karnataka,458,7,No,No,No
+SESS-500558,2026-02-11,/faq,Direct,career-week,Mobile,West Bengal,45,3,No,No,No
+SESS-500559,2026-01-23,/verify,Google Organic,none,Mobile,West Bengal,205,2,No,No,No
+SESS-500560,2026-08-01,/,Direct,starter,Mobile,Tamil Nadu,219,3,No,No,No
+SESS-500561,2026-08-15,/login,Email,starter,Mobile,Delhi,346,4,Yes,Yes,No
+SESS-500562,2026-03-02,/,Instagram,none,Mobile,Tamil Nadu,371,4,No,No,No
+SESS-500563,2026-06-18,/,Direct,starter,Mobile,Telangana,180,3,No,No,No
+SESS-500564,2026-05-17,/register,Google Organic,starter,Mobile,Maharashtra,473,6,No,No,No
+SESS-500565,2026-03-01,/register,Google Organic,starter,Mobile,Maharashtra,235,1,Yes,Yes,No
+SESS-500566,2026-02-19,/programs,Referral,starter,Mobile,West Bengal,256,5,No,No,No
+SESS-500567,2026-03-31,/login,LinkedIn,campus,Desktop,West Bengal,467,5,No,No,No
+SESS-500568,2026-07-29,/register,Direct,starter,Desktop,Maharashtra,206,3,No,No,No
+SESS-500569,2026-05-06,/register,Google Organic,starter,Desktop,Karnataka,434,6,Yes,Yes,No
+SESS-500570,2026-06-06,/login,LinkedIn,starter,Desktop,Delhi,330,7,Yes,Yes,No
+SESS-500571,2026-08-14,/programs,Google Organic,starter,Mobile,Delhi,228,2,Yes,No,No
+SESS-500572,2026-07-13,/,Email,campus,Desktop,Tamil Nadu,337,5,No,No,No
+SESS-500573,2026-06-16,/faq,Direct,campus,Mobile,Telangana,408,6,No,No,No
+SESS-500574,2026-03-08,/,LinkedIn,campus,Desktop,Telangana,279,5,No,No,No
+SESS-500575,2026-07-24,/,Google Organic,starter,Tablet,Telangana,246,3,No,No,No
+SESS-500576,2026-02-28,/,Google Organic,career-week,Desktop,Telangana,283,3,No,No,No
+SESS-500577,2026-08-25,/verify,Google Organic,campus,Mobile,Karnataka,167,4,No,No,No
+SESS-500578,2026-05-09,/register,Google Organic,starter,Mobile,Telangana,292,4,No,No,No
+SESS-500579,2026-01-04,/programs,Referral,none,Desktop,Tamil Nadu,146,3,No,No,No
+SESS-500580,2026-03-11,/faq,Instagram,campus,Mobile,Tamil Nadu,424,6,No,No,No
+SESS-500581,2026-05-14,/,Google Organic,career-week,Mobile,West Bengal,4,1,No,No,Yes
+SESS-500582,2026-05-20,/,Google Organic,none,Desktop,West Bengal,339,2,No,No,No
+SESS-500583,2026-06-03,/verify,Referral,starter,Mobile,Telangana,47,3,No,No,No
+SESS-500584,2026-01-28,/programs,Direct,career-week,Mobile,West Bengal,426,6,No,No,No
+SESS-500585,2026-06-30,/programs,Direct,starter,Mobile,Maharashtra,340,5,No,No,No
+SESS-500586,2026-03-29,/login,Direct,starter,Mobile,Telangana,175,3,Yes,Yes,No
+SESS-500587,2026-03-15,/login,Email,career-week,Mobile,Telangana,185,1,No,No,No
+SESS-500588,2026-06-10,/verify,Google Organic,starter,Mobile,Karnataka,193,3,No,No,No
+SESS-500589,2026-08-06,/,Direct,campus,Mobile,Delhi,129,2,Yes,Yes,No
+SESS-500590,2026-05-26,/verify,Google Organic,campus,Mobile,West Bengal,202,3,Yes,No,No
+SESS-500591,2026-02-21,/register,Referral,starter,Mobile,Telangana,243,3,No,No,No
+SESS-500592,2026-06-24,/register,Google Organic,campus,Desktop,West Bengal,4,2,No,No,No
+SESS-500593,2026-07-11,/verify,LinkedIn,career-week,Mobile,Tamil Nadu,220,5,Yes,Yes,No
+SESS-500594,2026-04-17,/programs,Google Organic,campus,Mobile,West Bengal,196,1,Yes,No,No
+SESS-500595,2026-05-08,/,LinkedIn,none,Desktop,Delhi,277,4,No,No,No
+SESS-500596,2026-02-14,/faq,Direct,campus,Mobile,Maharashtra,247,3,No,No,No
+SESS-500597,2026-04-24,/login,Google Organic,none,Desktop,West Bengal,329,3,No,No,No
+SESS-500598,2026-08-03,/faq,Referral,starter,Mobile,Delhi,403,4,Yes,Yes,No
+SESS-500599,2026-04-25,/programs,Email,none,Mobile,West Bengal,291,4,Yes,Yes,No
+SESS-500600,2026-02-01,/,Google Organic,starter,Tablet,Tamil Nadu,289,4,No,No,No
+SESS-500601,2026-01-10,/,Referral,starter,Desktop,Maharashtra,246,2,No,No,No
+SESS-500602,2026-08-21,/programs,Direct,starter,Tablet,Maharashtra,154,2,No,No,No
+SESS-500603,2026-03-09,/verify,Instagram,campus,Mobile,Tamil Nadu,338,5,No,No,No
+SESS-500604,2026-01-30,/login,LinkedIn,none,Mobile,West Bengal,252,6,No,No,No
+SESS-500605,2026-06-26,/programs,Referral,career-week,Desktop,Delhi,550,9,Yes,No,No
+SESS-500606,2026-01-01,/faq,Direct,career-week,Desktop,Tamil Nadu,219,3,Yes,No,No
+SESS-500607,2026-06-22,/login,Referral,starter,Mobile,Delhi,167,4,No,No,No
+SESS-500608,2026-03-03,/login,Direct,starter,Mobile,Karnataka,415,7,Yes,Yes,No
+SESS-500609,2026-03-09,/verify,Google Organic,starter,Mobile,Maharashtra,260,4,No,No,No
+SESS-500610,2026-07-23,/,Google Organic,career-week,Mobile,Delhi,335,4,Yes,No,No
+SESS-500611,2026-07-13,/login,Referral,campus,Mobile,Tamil Nadu,314,2,No,No,No
+SESS-500612,2026-02-05,/register,Google Organic,starter,Mobile,Delhi,242,3,No,No,No
+SESS-500613,2026-03-10,/,Google Organic,campus,Mobile,Delhi,128,1,No,No,No
+SESS-500614,2026-04-10,/,Google Organic,campus,Mobile,Delhi,547,8,No,No,No
+SESS-500615,2026-03-07,/,LinkedIn,starter,Mobile,Maharashtra,418,4,Yes,Yes,No
+SESS-500616,2026-04-11,/,Direct,starter,Desktop,Delhi,417,6,Yes,No,No
+SESS-500617,2026-01-24,/programs,Instagram,career-week,Mobile,Delhi,217,3,No,No,No
+SESS-500618,2026-08-27,/register,Google Organic,campus,Mobile,Tamil Nadu,316,4,No,No,No
+SESS-500619,2026-05-19,/register,Google Organic,starter,Desktop,West Bengal,238,4,No,No,No
+SESS-500620,2026-01-15,/faq,Direct,career-week,Mobile,Karnataka,127,1,No,No,No
+SESS-500621,2026-01-13,/,Google Organic,starter,Mobile,Tamil Nadu,37,2,Yes,No,No
+SESS-500622,2026-05-14,/,Direct,none,Mobile,Maharashtra,140,3,Yes,No,No
+SESS-500623,2026-05-15,/,Direct,career-week,Mobile,Tamil Nadu,92,2,Yes,No,No
+SESS-500624,2026-03-27,/register,Google Organic,campus,Mobile,Delhi,261,5,No,No,No
+SESS-500625,2026-02-14,/,Direct,none,Mobile,Delhi,384,4,No,No,No
+SESS-500626,2026-07-14,/programs,Direct,career-week,Mobile,Karnataka,282,4,No,No,No
+SESS-500627,2026-01-26,/login,Google Organic,none,Mobile,Maharashtra,145,3,Yes,Yes,No
+SESS-500628,2026-05-05,/,LinkedIn,none,Mobile,Delhi,4,1,Yes,No,Yes
+SESS-500629,2026-08-09,/faq,Google Organic,starter,Mobile,West Bengal,423,7,No,No,No
+SESS-500630,2026-04-18,/faq,Direct,starter,Mobile,West Bengal,183,2,Yes,No,No
+SESS-500631,2026-07-03,/faq,Referral,none,Desktop,Delhi,205,3,No,No,No
+SESS-500632,2026-05-06,/,Google Organic,career-week,Mobile,Karnataka,381,4,Yes,Yes,No
+SESS-500633,2026-01-14,/register,Google Organic,none,Mobile,Karnataka,178,1,No,No,No
+SESS-500634,2026-08-16,/login,Instagram,starter,Mobile,Karnataka,293,5,Yes,Yes,No
+SESS-500635,2026-06-14,/verify,Direct,none,Mobile,Tamil Nadu,145,3,Yes,Yes,No
+SESS-500636,2026-06-11,/login,Google Organic,starter,Desktop,Delhi,545,8,No,No,No
+SESS-500637,2026-04-17,/faq,Google Organic,none,Mobile,Telangana,531,7,No,No,No
+SESS-500638,2026-01-31,/register,Google Organic,starter,Tablet,Maharashtra,281,1,No,No,No
+SESS-500639,2026-02-28,/,Email,none,Desktop,Tamil Nadu,4,2,No,No,No
+SESS-500640,2026-05-03,/,Google Organic,career-week,Mobile,Delhi,146,2,Yes,No,No
+SESS-500641,2026-07-26,/login,Email,career-week,Mobile,Tamil Nadu,376,4,No,No,No
+SESS-500642,2026-01-13,/verify,LinkedIn,none,Mobile,Tamil Nadu,87,1,No,No,No
+SESS-500643,2026-05-18,/verify,Google Organic,starter,Desktop,Maharashtra,388,6,Yes,No,No
+SESS-500644,2026-03-13,/programs,Google Organic,starter,Desktop,Telangana,521,5,No,No,No
+SESS-500645,2026-03-12,/verify,LinkedIn,none,Mobile,Karnataka,262,4,Yes,Yes,No
+SESS-500646,2026-02-10,/register,Direct,none,Desktop,Telangana,315,6,Yes,Yes,No
+SESS-500647,2026-08-06,/verify,Instagram,none,Mobile,Maharashtra,501,7,Yes,Yes,No
+SESS-500648,2026-05-07,/programs,Email,career-week,Mobile,Delhi,222,1,No,No,No
+SESS-500649,2026-05-18,/register,Google Organic,none,Mobile,Karnataka,111,3,No,No,No
+SESS-500650,2026-08-12,/verify,LinkedIn,none,Mobile,Telangana,233,6,Yes,No,No
+SESS-500651,2026-04-17,/faq,Google Organic,career-week,Desktop,Delhi,259,4,No,No,No
+SESS-500652,2026-08-26,/faq,Google Organic,starter,Desktop,Maharashtra,93,4,No,No,No
+SESS-500653,2026-06-17,/,Google Organic,starter,Mobile,Tamil Nadu,243,3,No,No,No
+SESS-500654,2026-05-29,/verify,Instagram,none,Desktop,Karnataka,348,5,No,No,No
+SESS-500655,2026-05-15,/login,Google Organic,starter,Mobile,Tamil Nadu,297,5,No,No,No
+SESS-500656,2026-01-19,/programs,Google Organic,none,Desktop,Telangana,578,6,Yes,Yes,No
+SESS-500657,2026-07-20,/verify,Instagram,campus,Mobile,Telangana,321,7,No,No,No
+SESS-500658,2026-01-28,/register,Referral,none,Mobile,Delhi,215,4,No,No,No
+SESS-500659,2026-05-04,/programs,Instagram,none,Mobile,Delhi,159,5,No,No,No
+SESS-500660,2026-05-24,/login,Direct,campus,Mobile,West Bengal,440,8,Yes,Yes,No
+SESS-500661,2026-01-15,/register,LinkedIn,campus,Mobile,West Bengal,187,4,No,No,No
+SESS-500662,2026-08-20,/verify,Email,campus,Mobile,Delhi,195,3,Yes,Yes,No
+SESS-500663,2026-04-17,/register,LinkedIn,career-week,Mobile,Telangana,84,3,No,No,No
+SESS-500664,2026-05-22,/verify,Direct,campus,Mobile,Tamil Nadu,340,4,Yes,Yes,No
+SESS-500665,2026-03-15,/verify,Direct,none,Desktop,Delhi,565,6,No,No,No
+SESS-500666,2026-06-12,/programs,LinkedIn,starter,Mobile,West Bengal,539,6,No,No,No
+SESS-500667,2026-04-08,/faq,Google Organic,career-week,Mobile,Telangana,182,1,No,No,No
+SESS-500668,2026-05-21,/faq,Direct,career-week,Desktop,West Bengal,97,1,Yes,No,No
+SESS-500669,2026-05-14,/register,Referral,career-week,Desktop,West Bengal,231,2,No,No,No
+SESS-500670,2026-03-28,/faq,Direct,starter,Desktop,Karnataka,139,3,No,No,No
+SESS-500671,2026-05-19,/verify,Email,starter,Mobile,Tamil Nadu,117,5,No,No,No
+SESS-500672,2026-03-06,/,Google Organic,career-week,Mobile,Delhi,304,4,No,No,No
+SESS-500673,2026-03-04,/programs,Google Organic,none,Mobile,Tamil Nadu,192,4,Yes,No,No
+SESS-500674,2026-07-10,/login,LinkedIn,none,Mobile,Karnataka,418,7,Yes,Yes,No
+SESS-500675,2026-01-24,/faq,Referral,starter,Mobile,Delhi,267,4,Yes,Yes,No
+SESS-500676,2026-08-01,/faq,Google Organic,career-week,Mobile,Maharashtra,286,1,Yes,Yes,No
+SESS-500677,2026-05-23,/programs,Direct,starter,Mobile,Tamil Nadu,180,4,Yes,Yes,No
+SESS-500678,2026-02-03,/programs,Direct,none,Mobile,Delhi,160,5,No,No,No
+SESS-500679,2026-08-08,/verify,Direct,campus,Mobile,Telangana,378,6,No,No,No
+SESS-500680,2026-01-08,/,Instagram,none,Mobile,Karnataka,173,4,No,No,No
+SESS-500681,2026-08-07,/verify,Instagram,campus,Mobile,West Bengal,260,1,Yes,No,No
+SESS-500682,2026-08-21,/,Referral,none,Mobile,Delhi,239,3,No,No,No
+SESS-500683,2026-08-24,/register,Instagram,starter,Desktop,Delhi,295,3,Yes,Yes,No
+SESS-500684,2026-08-18,/login,Google Organic,none,Tablet,Maharashtra,192,2,No,No,No
+SESS-500685,2026-08-06,/register,Direct,career-week,Desktop,Maharashtra,202,2,No,No,No
+SESS-500686,2026-04-15,/register,Google Organic,career-week,Mobile,Maharashtra,398,8,No,No,No
+SESS-500687,2026-08-03,/register,Referral,career-week,Mobile,Tamil Nadu,104,2,No,No,No
+SESS-500688,2026-01-25,/register,Email,campus,Mobile,Telangana,265,5,No,No,No
+SESS-500689,2026-01-16,/verify,Email,campus,Mobile,Maharashtra,530,6,Yes,Yes,No
+SESS-500690,2026-07-31,/login,Email,none,Mobile,Karnataka,307,4,Yes,No,No
+SESS-500691,2026-04-02,/register,Direct,starter,Desktop,Maharashtra,173,1,Yes,No,No
+SESS-500692,2026-08-11,/programs,LinkedIn,career-week,Mobile,Telangana,119,3,No,No,No
+SESS-500693,2026-04-06,/programs,Google Organic,starter,Mobile,Tamil Nadu,57,2,No,No,No
+SESS-500694,2026-06-30,/programs,Direct,career-week,Desktop,Karnataka,394,6,No,No,No
+SESS-500695,2026-07-07,/,Instagram,none,Mobile,Delhi,522,4,Yes,No,No
+SESS-500696,2026-01-14,/faq,Google Organic,career-week,Desktop,Maharashtra,333,7,No,No,No
+SESS-500697,2026-07-22,/programs,Direct,career-week,Desktop,Delhi,34,1,Yes,No,Yes
+SESS-500698,2026-04-22,/faq,Referral,none,Tablet,Maharashtra,443,5,No,No,No
+SESS-500699,2026-08-17,/,Direct,none,Desktop,Tamil Nadu,179,3,No,No,No
+SESS-500700,2026-06-28,/login,Direct,none,Desktop,Maharashtra,549,7,Yes,Yes,No
+SESS-500701,2026-08-10,/login,LinkedIn,career-week,Desktop,West Bengal,209,3,No,No,No
+SESS-500702,2026-03-14,/programs,Direct,none,Desktop,Tamil Nadu,409,5,No,No,No
+SESS-500703,2026-05-24,/verify,LinkedIn,none,Mobile,Maharashtra,147,1,No,No,No
+SESS-500704,2026-08-05,/verify,Direct,starter,Mobile,Delhi,4,1,No,No,Yes
+SESS-500705,2026-05-28,/programs,Direct,campus,Desktop,Maharashtra,107,1,No,No,No
+SESS-500706,2026-02-12,/verify,Direct,starter,Tablet,Karnataka,101,3,No,No,No
+SESS-500707,2026-03-25,/programs,LinkedIn,none,Desktop,West Bengal,117,2,No,No,No
+SESS-500708,2026-08-24,/register,Direct,career-week,Desktop,West Bengal,92,2,Yes,Yes,No
+SESS-500709,2026-03-09,/register,Direct,career-week,Desktop,Delhi,202,5,No,No,No
+SESS-500710,2026-06-11,/programs,Google Organic,career-week,Mobile,Karnataka,276,5,No,No,No
+SESS-500711,2026-06-10,/faq,Google Organic,none,Mobile,West Bengal,165,2,No,No,No
+SESS-500712,2026-01-13,/programs,Instagram,starter,Mobile,Tamil Nadu,437,8,Yes,Yes,No
+SESS-500713,2026-07-15,/programs,Google Organic,campus,Desktop,Tamil Nadu,327,4,Yes,Yes,No
+SESS-500714,2026-08-27,/register,Referral,campus,Desktop,West Bengal,4,3,Yes,No,No
+SESS-500715,2026-05-09,/login,Referral,none,Tablet,Karnataka,363,6,No,No,No
+SESS-500716,2026-07-12,/login,Google Organic,career-week,Mobile,Telangana,433,7,No,No,No
+SESS-500717,2026-07-15,/verify,Email,career-week,Mobile,Telangana,24,1,Yes,No,Yes
+SESS-500718,2026-06-19,/faq,Google Organic,campus,Desktop,Delhi,4,1,No,No,Yes
+SESS-500719,2026-06-02,/programs,Instagram,none,Mobile,Delhi,438,5,Yes,Yes,No
+SESS-500720,2026-03-30,/verify,Email,campus,Desktop,Delhi,162,1,No,No,No
+SESS-500721,2026-06-08,/login,Referral,none,Mobile,Karnataka,146,2,No,No,No
+SESS-500722,2026-05-04,/,Google Organic,campus,Mobile,West Bengal,157,3,No,No,No
+SESS-500723,2026-04-08,/login,Google Organic,none,Desktop,Karnataka,268,6,No,No,No
+SESS-500724,2026-03-13,/register,Email,career-week,Mobile,Delhi,4,1,Yes,Yes,Yes
+SESS-500725,2026-05-03,/,Email,starter,Mobile,West Bengal,289,4,No,No,No
+SESS-500726,2026-07-01,/programs,LinkedIn,campus,Mobile,West Bengal,214,3,No,No,No
+SESS-500727,2026-05-29,/register,Direct,none,Mobile,Delhi,59,1,No,No,No
+SESS-500728,2026-04-06,/login,Google Organic,starter,Mobile,Tamil Nadu,338,3,No,No,No
+SESS-500729,2026-05-14,/programs,Referral,career-week,Mobile,West Bengal,313,6,No,No,No
+SESS-500730,2026-08-07,/programs,Email,starter,Mobile,Maharashtra,766,10,No,No,No
+SESS-500731,2026-04-22,/,Direct,none,Mobile,Tamil Nadu,24,1,No,No,Yes
+SESS-500732,2026-01-01,/register,Google Organic,none,Tablet,Karnataka,190,2,No,No,No
+SESS-500733,2026-06-21,/faq,Referral,campus,Mobile,Telangana,195,3,No,No,No
+SESS-500734,2026-03-16,/programs,Google Organic,campus,Mobile,Karnataka,315,4,Yes,No,No
+SESS-500735,2026-02-24,/programs,Email,starter,Mobile,Tamil Nadu,567,11,Yes,Yes,No
+SESS-500736,2026-03-02,/register,Google Organic,campus,Mobile,Telangana,457,7,No,No,No
+SESS-500737,2026-01-23,/verify,LinkedIn,none,Mobile,West Bengal,356,2,No,No,No
+SESS-500738,2026-08-15,/faq,Direct,campus,Desktop,Telangana,183,4,No,No,No
+SESS-500739,2026-01-30,/verify,LinkedIn,career-week,Mobile,Delhi,182,1,No,No,No
+SESS-500740,2026-05-10,/login,Google Organic,none,Mobile,Maharashtra,194,2,No,No,No
+SESS-500741,2026-04-09,/login,LinkedIn,campus,Mobile,Tamil Nadu,326,4,No,No,No
+SESS-500742,2026-07-10,/verify,Instagram,starter,Mobile,Telangana,28,1,No,No,Yes
+SESS-500743,2026-06-03,/faq,Email,campus,Desktop,Maharashtra,209,3,Yes,Yes,No
+SESS-500744,2026-01-08,/register,Google Organic,career-week,Tablet,Karnataka,348,5,Yes,Yes,No
+SESS-500745,2026-06-21,/verify,LinkedIn,starter,Mobile,Karnataka,32,1,No,No,Yes
+SESS-500746,2026-03-07,/faq,Email,starter,Mobile,Telangana,382,6,No,No,No
+SESS-500747,2026-05-09,/programs,Email,campus,Mobile,Telangana,152,1,No,No,No
+SESS-500748,2026-04-04,/register,Direct,starter,Mobile,Maharashtra,220,2,No,No,No
+SESS-500749,2026-04-25,/programs,LinkedIn,none,Mobile,Maharashtra,122,1,No,No,No
+SESS-500750,2026-06-07,/verify,Instagram,none,Desktop,Karnataka,58,2,No,No,No
+SESS-500751,2026-07-09,/login,Direct,career-week,Desktop,Tamil Nadu,233,5,Yes,Yes,No
+SESS-500752,2026-08-26,/register,Referral,starter,Mobile,Maharashtra,308,3,Yes,Yes,No
+SESS-500753,2026-05-15,/faq,Referral,none,Mobile,Karnataka,284,4,No,No,No
+SESS-500754,2026-06-06,/,Instagram,none,Desktop,Delhi,294,3,Yes,No,No
+SESS-500755,2026-02-02,/register,Direct,starter,Mobile,Karnataka,173,2,No,No,No
+SESS-500756,2026-08-20,/faq,Email,none,Mobile,West Bengal,54,1,Yes,Yes,No
+SESS-500757,2026-06-04,/,Google Organic,career-week,Desktop,West Bengal,533,7,Yes,Yes,No
+SESS-500758,2026-06-13,/programs,Instagram,none,Desktop,Delhi,273,5,No,No,No
+SESS-500759,2026-02-04,/verify,Instagram,career-week,Tablet,Karnataka,65,1,Yes,No,No
+SESS-500760,2026-05-04,/,Google Organic,starter,Mobile,Tamil Nadu,156,2,No,No,No
+SESS-500761,2026-05-27,/verify,Referral,campus,Mobile,Maharashtra,63,1,No,No,No
+SESS-500762,2026-01-19,/,Email,campus,Mobile,Maharashtra,234,5,No,No,No
+SESS-500763,2026-02-14,/,Instagram,campus,Mobile,Tamil Nadu,4,1,No,No,Yes
+SESS-500764,2026-01-16,/register,Email,none,Mobile,Maharashtra,409,7,Yes,Yes,No
+SESS-500765,2026-03-21,/,LinkedIn,career-week,Mobile,West Bengal,317,5,Yes,No,No
+SESS-500766,2026-07-20,/register,Google Organic,none,Desktop,Telangana,419,2,Yes,No,No
+SESS-500767,2026-03-10,/programs,Email,starter,Desktop,Delhi,265,2,No,No,No
+SESS-500768,2026-08-27,/programs,Direct,none,Mobile,Karnataka,172,3,No,No,No
+SESS-500769,2026-06-15,/faq,Referral,career-week,Desktop,Delhi,237,3,Yes,No,No
+SESS-500770,2026-03-12,/login,Email,none,Desktop,Maharashtra,71,1,Yes,Yes,No
+SESS-500771,2026-05-03,/programs,LinkedIn,campus,Tablet,Karnataka,259,4,No,No,No
+SESS-500772,2026-03-01,/register,Google Organic,starter,Desktop,Telangana,285,5,No,No,No
+SESS-500773,2026-05-25,/register,Referral,starter,Desktop,West Bengal,59,2,Yes,Yes,No
+SESS-500774,2026-06-09,/verify,Direct,campus,Mobile,Delhi,138,2,No,No,No
+SESS-500775,2026-03-17,/faq,Direct,none,Mobile,Karnataka,31,2,No,No,No
+SESS-500776,2026-06-11,/login,Direct,campus,Mobile,Tamil Nadu,35,4,Yes,No,No
+SESS-500777,2026-07-04,/register,Email,none,Mobile,Telangana,279,2,No,No,No
+SESS-500778,2026-08-28,/,LinkedIn,career-week,Desktop,Telangana,254,4,No,No,No
+SESS-500779,2026-07-11,/register,Instagram,none,Desktop,Maharashtra,391,6,No,No,No
+SESS-500780,2026-07-28,/,Email,campus,Desktop,West Bengal,252,5,No,No,No
+SESS-500781,2026-03-02,/programs,Google Organic,starter,Desktop,Delhi,398,8,Yes,Yes,No
+SESS-500782,2026-05-15,/,Referral,starter,Desktop,Tamil Nadu,464,6,No,No,No
+SESS-500783,2026-08-21,/register,Google Organic,none,Mobile,Maharashtra,159,1,No,No,No
+SESS-500784,2026-07-06,/verify,Google Organic,campus,Mobile,Tamil Nadu,255,5,No,No,No
+SESS-500785,2026-04-20,/faq,Google Organic,none,Mobile,Maharashtra,263,5,No,No,No
+SESS-500786,2026-02-02,/programs,Google Organic,career-week,Desktop,Karnataka,321,3,No,No,No
+SESS-500787,2026-08-28,/programs,Direct,starter,Mobile,Tamil Nadu,409,6,No,No,No
+SESS-500788,2026-06-02,/login,Google Organic,career-week,Desktop,Karnataka,6,2,No,No,No
+SESS-500789,2026-04-21,/,Direct,starter,Mobile,West Bengal,138,1,No,No,No
+SESS-500790,2026-03-25,/programs,Email,campus,Desktop,Telangana,4,1,Yes,No,Yes
+SESS-500791,2026-05-02,/faq,Email,campus,Mobile,Tamil Nadu,278,3,No,No,No
+SESS-500792,2026-02-04,/register,Direct,career-week,Mobile,Telangana,35,1,No,No,Yes
+SESS-500793,2026-03-17,/verify,LinkedIn,career-week,Mobile,Tamil Nadu,637,7,Yes,Yes,No
+SESS-500794,2026-02-07,/login,Referral,career-week,Mobile,Delhi,70,2,No,No,No
+SESS-500795,2026-06-06,/register,Email,campus,Mobile,West Bengal,278,4,Yes,Yes,No
+SESS-500796,2026-05-06,/verify,Google Organic,career-week,Desktop,Maharashtra,138,1,No,No,No
+SESS-500797,2026-01-09,/faq,Google Organic,career-week,Mobile,Maharashtra,4,1,No,No,Yes
+SESS-500798,2026-03-16,/,Direct,starter,Desktop,Karnataka,183,2,No,No,No
+SESS-500799,2026-05-21,/,Email,none,Desktop,Maharashtra,390,5,No,No,No
+SESS-500800,2026-05-05,/programs,Direct,career-week,Desktop,Telangana,201,1,No,No,No
+SESS-500801,2026-03-07,/register,Email,campus,Mobile,Telangana,108,3,No,No,No
+SESS-500802,2026-07-30,/register,Referral,career-week,Desktop,West Bengal,142,3,No,No,No
+SESS-500803,2026-05-30,/,Instagram,career-week,Mobile,Telangana,89,1,Yes,No,No
+SESS-500804,2026-07-06,/,Instagram,none,Desktop,Delhi,193,4,Yes,No,No
+SESS-500805,2026-07-23,/,Direct,career-week,Mobile,Telangana,491,6,No,No,No
+SESS-500806,2026-08-01,/login,Google Organic,none,Mobile,Karnataka,111,2,No,No,No
+SESS-500807,2026-05-17,/login,Direct,starter,Desktop,Telangana,175,3,No,No,No
+SESS-500808,2026-02-25,/login,Direct,none,Desktop,Delhi,277,5,No,No,No
+SESS-500809,2026-08-23,/,Referral,starter,Desktop,Delhi,316,4,No,No,No
+SESS-500810,2026-06-23,/verify,LinkedIn,none,Mobile,Tamil Nadu,24,1,No,No,Yes
+SESS-500811,2026-01-24,/verify,Email,career-week,Desktop,Delhi,405,5,Yes,No,No
+SESS-500812,2026-01-17,/login,Google Organic,career-week,Mobile,Karnataka,373,4,No,No,No
+SESS-500813,2026-06-18,/faq,Google Organic,starter,Mobile,Tamil Nadu,184,5,No,No,No
+SESS-500814,2026-08-02,/,Google Organic,campus,Mobile,Delhi,35,1,No,No,Yes
+SESS-500815,2026-04-11,/verify,Direct,career-week,Mobile,Tamil Nadu,4,1,No,No,Yes
+SESS-500816,2026-05-08,/programs,Email,starter,Mobile,Tamil Nadu,516,5,No,No,No
+SESS-500817,2026-04-14,/faq,Direct,career-week,Mobile,Tamil Nadu,122,3,No,No,No
+SESS-500818,2026-05-26,/programs,LinkedIn,campus,Mobile,Tamil Nadu,303,4,No,No,No
+SESS-500819,2026-03-29,/,Google Organic,none,Mobile,Telangana,356,4,No,No,No
+SESS-500820,2026-02-14,/register,Email,campus,Mobile,Tamil Nadu,4,2,No,No,No
+SESS-500821,2026-01-24,/login,Google Organic,starter,Desktop,Maharashtra,222,3,No,No,No
+SESS-500822,2026-07-23,/verify,Google Organic,campus,Desktop,Karnataka,475,6,Yes,Yes,No
+SESS-500823,2026-06-25,/programs,Google Organic,campus,Desktop,Delhi,44,2,No,No,No
+SESS-500824,2026-06-20,/,LinkedIn,starter,Mobile,Telangana,457,6,No,No,No
+SESS-500825,2026-01-19,/,LinkedIn,none,Mobile,Tamil Nadu,326,4,Yes,Yes,No
+SESS-500826,2026-08-26,/register,Instagram,starter,Tablet,West Bengal,364,5,No,No,No
+SESS-500827,2026-06-02,/programs,Instagram,starter,Mobile,Delhi,156,3,Yes,No,No
+SESS-500828,2026-03-07,/programs,Google Organic,starter,Mobile,Maharashtra,497,6,Yes,No,No
+SESS-500829,2026-04-04,/programs,Google Organic,career-week,Mobile,Delhi,162,2,No,No,No
+SESS-500830,2026-05-07,/login,LinkedIn,starter,Mobile,Delhi,334,4,Yes,Yes,No
+SESS-500831,2026-05-23,/login,LinkedIn,campus,Mobile,Maharashtra,368,3,Yes,No,No
+SESS-500832,2026-03-04,/programs,Google Organic,campus,Desktop,West Bengal,222,1,Yes,Yes,No
+SESS-500833,2026-04-14,/verify,Instagram,none,Mobile,West Bengal,4,2,No,No,No
+SESS-500834,2026-02-22,/,LinkedIn,campus,Mobile,Telangana,427,6,No,No,No
+SESS-500835,2026-05-01,/programs,Google Organic,starter,Desktop,Telangana,9,2,No,No,No
+SESS-500836,2026-08-18,/,Referral,career-week,Mobile,Delhi,263,2,Yes,Yes,No
+SESS-500837,2026-01-22,/,Direct,starter,Mobile,Tamil Nadu,4,2,No,No,No
+SESS-500838,2026-05-02,/programs,Direct,campus,Mobile,Tamil Nadu,434,6,No,No,No
+SESS-500839,2026-06-20,/register,Email,campus,Mobile,Maharashtra,359,3,No,No,No
+SESS-500840,2026-05-20,/,LinkedIn,career-week,Desktop,Delhi,161,2,No,No,No
+SESS-500841,2026-08-14,/verify,Direct,career-week,Mobile,West Bengal,365,2,No,No,No
+SESS-500842,2026-06-08,/faq,LinkedIn,career-week,Desktop,Tamil Nadu,147,2,Yes,No,No
+SESS-500843,2026-03-21,/login,Google Organic,none,Mobile,Karnataka,294,3,Yes,Yes,No
+SESS-500844,2026-07-31,/,Google Organic,starter,Mobile,Delhi,393,3,No,No,No
+SESS-500845,2026-03-03,/programs,Email,campus,Desktop,West Bengal,4,1,No,No,Yes
+SESS-500846,2026-05-26,/,Direct,career-week,Mobile,Karnataka,4,1,Yes,No,Yes
+SESS-500847,2026-06-01,/programs,Google Organic,career-week,Tablet,Delhi,134,2,No,No,No
+SESS-500848,2026-04-09,/programs,Google Organic,none,Desktop,Telangana,44,2,No,No,No
+SESS-500849,2026-06-15,/programs,Direct,none,Mobile,Tamil Nadu,4,2,No,No,No
+SESS-500850,2026-05-07,/register,Email,none,Desktop,Tamil Nadu,141,3,No,No,No
+SESS-500851,2026-07-01,/verify,Referral,none,Tablet,Delhi,160,2,Yes,No,No
+SESS-500852,2026-03-13,/login,Direct,career-week,Mobile,West Bengal,9,2,No,No,No
+SESS-500853,2026-05-20,/verify,Email,starter,Desktop,Maharashtra,224,4,No,No,No
+SESS-500854,2026-02-06,/,Direct,starter,Mobile,Karnataka,4,1,Yes,No,Yes
+SESS-500855,2026-08-23,/programs,Email,campus,Mobile,Karnataka,467,9,No,No,No
+SESS-500856,2026-06-19,/login,Google Organic,starter,Desktop,Delhi,127,2,No,No,No
+SESS-500857,2026-04-28,/verify,Google Organic,starter,Mobile,Delhi,325,6,No,No,No
+SESS-500858,2026-06-16,/login,Instagram,starter,Mobile,Delhi,67,2,No,No,No
+SESS-500859,2026-08-17,/register,Instagram,starter,Mobile,Tamil Nadu,352,7,Yes,Yes,No
+SESS-500860,2026-04-17,/,Direct,campus,Desktop,West Bengal,352,5,No,No,No
+SESS-500861,2026-02-15,/programs,Google Organic,career-week,Mobile,West Bengal,345,5,No,No,No
+SESS-500862,2026-08-01,/,Email,career-week,Mobile,West Bengal,278,5,Yes,Yes,No
+SESS-500863,2026-05-27,/,Google Organic,career-week,Mobile,Maharashtra,227,1,Yes,No,No
+SESS-500864,2026-08-13,/programs,Email,campus,Desktop,Karnataka,116,4,Yes,Yes,No
+SESS-500865,2026-04-18,/programs,Direct,none,Mobile,Maharashtra,95,1,No,No,No
+SESS-500866,2026-08-15,/register,LinkedIn,career-week,Tablet,West Bengal,225,3,Yes,Yes,No
+SESS-500867,2026-05-31,/,LinkedIn,campus,Mobile,Tamil Nadu,4,1,No,No,Yes
+SESS-500868,2026-04-05,/,Google Organic,campus,Mobile,Maharashtra,385,5,No,No,No
+SESS-500869,2026-07-28,/register,Referral,none,Mobile,Tamil Nadu,207,1,No,No,No
+SESS-500870,2026-03-28,/,Google Organic,starter,Mobile,Tamil Nadu,587,6,No,No,No
+SESS-500871,2026-04-20,/login,Google Organic,starter,Mobile,Telangana,147,2,No,No,No
+SESS-500872,2026-07-04,/register,Direct,starter,Mobile,Delhi,94,1,No,No,No
+SESS-500873,2026-04-03,/programs,Referral,campus,Desktop,Tamil Nadu,158,2,No,No,No
+SESS-500874,2026-03-02,/programs,Instagram,career-week,Desktop,Telangana,298,4,No,No,No
+SESS-500875,2026-02-15,/login,Direct,career-week,Mobile,Telangana,77,1,No,No,No
+SESS-500876,2026-01-13,/register,Email,career-week,Mobile,Tamil Nadu,203,4,No,No,No
+SESS-500877,2026-06-30,/,Direct,career-week,Mobile,Maharashtra,267,2,No,No,No
+SESS-500878,2026-05-28,/login,Direct,campus,Mobile,Tamil Nadu,502,4,Yes,No,No
+SESS-500879,2026-07-13,/login,LinkedIn,career-week,Mobile,Telangana,314,5,Yes,Yes,No
+SESS-500880,2026-03-22,/login,Google Organic,none,Mobile,Telangana,99,2,No,No,No
+SESS-500881,2026-05-11,/faq,Email,career-week,Desktop,Tamil Nadu,4,1,No,No,Yes
+SESS-500882,2026-03-12,/verify,Direct,campus,Mobile,Telangana,55,2,No,No,No
+SESS-500883,2026-06-10,/register,Direct,none,Mobile,Delhi,197,2,Yes,Yes,No
+SESS-500884,2026-03-11,/,Google Organic,none,Tablet,Delhi,118,2,Yes,Yes,No
+SESS-500885,2026-07-19,/programs,Google Organic,career-week,Mobile,Delhi,210,2,Yes,Yes,No
+SESS-500886,2026-01-12,/verify,Instagram,career-week,Desktop,Delhi,173,3,Yes,Yes,No
+SESS-500887,2026-01-05,/login,Google Organic,campus,Mobile,Karnataka,315,5,No,No,No
+SESS-500888,2026-01-24,/register,LinkedIn,starter,Mobile,Telangana,263,2,No,No,No
+SESS-500889,2026-03-15,/programs,Google Organic,starter,Desktop,Maharashtra,4,1,No,No,Yes
+SESS-500890,2026-03-31,/verify,Direct,starter,Mobile,Delhi,343,3,No,No,No
+SESS-500891,2026-01-24,/faq,Instagram,none,Desktop,West Bengal,209,4,No,No,No
+SESS-500892,2026-07-31,/programs,Email,starter,Mobile,Karnataka,403,1,Yes,Yes,No
+SESS-500893,2026-07-15,/verify,Google Organic,campus,Mobile,West Bengal,130,3,No,No,No
+SESS-500894,2026-03-25,/programs,LinkedIn,none,Mobile,Tamil Nadu,461,6,No,No,No
+SESS-500895,2026-05-28,/register,Email,starter,Desktop,Karnataka,220,2,Yes,No,No
+SESS-500896,2026-03-20,/,Referral,starter,Desktop,Maharashtra,218,3,No,No,No
+SESS-500897,2026-07-15,/register,Google Organic,campus,Mobile,Telangana,254,1,No,No,No
+SESS-500898,2026-08-16,/login,LinkedIn,career-week,Desktop,Karnataka,75,1,No,No,No
+SESS-500899,2026-01-13,/faq,Google Organic,career-week,Mobile,Tamil Nadu,263,4,No,No,No
+SESS-500900,2026-01-27,/login,Google Organic,career-week,Mobile,Delhi,7,2,No,No,No
